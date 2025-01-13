@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Democracies | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/tag/democracies/</link>
+      <atom:link href="https://css-synosys.github.io/tag/democracies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Democracies</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_300x300_fit_lanczos_3.png</url>
+      <title>Democracies</title>
+      <link>https://css-synosys.github.io/tag/democracies/</link>
+    </image>
+    
+    <item>
+      <title>Democracy and Digital Media</title>
+      <link>https://css-synosys.github.io/project/digitalmedia/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/project/digitalmedia/</guid>
+      <description>&lt;p&gt;Digital media has changed the way public spheres function around the world, specifically in the information environment of the internet. Moving from mostly one-to-many communication to a many-to-many system has increased its complexity. In addition, big platforms are curating information flows algorithmically and optimize them for engagement. Our goal is to better understand how those transitions are affecting democracies globally and political behaviour in particular.&lt;/p&gt;
+&lt;p&gt;Phenomena such as affective polarization, the rise of populism, the spread of misinformation and diminishing trust in institutions are potential developments of concern. For us, tools from data science, but also causal inference and experimentation, are essential to achieve this goal of empirically describing the complex mechanisms at play between human behavior, technology and politics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

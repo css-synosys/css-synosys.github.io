@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Swire-Thompson | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/author/b-swire-thompson/</link>
+      <atom:link href="https://css-synosys.github.io/author/b-swire-thompson/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Swire-Thompson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_300x300_fit_lanczos_3.png</url>
+      <title>B Swire-Thompson</title>
+      <link>https://css-synosys.github.io/author/b-swire-thompson/</link>
+    </image>
+    
+    <item>
+      <title>Real-time assessment of motives for sharing and creating content among highly active Twitter users</title>
+      <link>https://css-synosys.github.io/publication/phillip-2024-twitter/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/publication/phillip-2024-twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toolbox of individual-level interventions against online misinformation</title>
+      <link>https://css-synosys.github.io/publication/phillipp-2024-toolbox/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/publication/phillipp-2024-toolbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://css-synosys.github.io/sitemap.xml

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kamil Fuławka | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
+      <atom:link href="https://css-synosys.github.io/author/kamil-fu%C5%82awka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kamil Fuławka</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://css-synosys.github.io/author/kamil-fu%C5%82awka/avatar_hueaffc988be1310b04c8e1596ab7cc80f_344026_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kamil Fuławka</title>
+      <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
+    </image>
+    
+    <item>
+      <title>Kamil Fuławka</title>
+      <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</guid>
+      <description>&lt;p&gt;Kamil is a postdoc in the junior research group &amp;ldquo;Computational Social Science.&amp;rdquo; Trained as a psychologist, he specializes in understanding how individuals make decisions under risk and uncertainty. His core research interests focus on the (dis)adaptive roles of emotions and heuristics in decision-making and the dynamics of the decision-making process itself. Kamil’s research motivation is fueled by challenges in health-related decisions, such as vaccine hesitancy and food choices, and the impact of contemporary affective (emotional) propaganda on political preferences. His work integrates various methods, including computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports with large language models.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

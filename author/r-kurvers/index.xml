@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Kurvers | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/author/r-kurvers/</link>
+      <atom:link href="https://css-synosys.github.io/author/r-kurvers/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Kurvers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_300x300_fit_lanczos_3.png</url>
+      <title>R Kurvers</title>
+      <link>https://css-synosys.github.io/author/r-kurvers/</link>
+    </image>
+    
+    <item>
+      <title>Susceptibility to Online Misinformation: A Systematic Meta-Analysis of Demographic and Psychological Factors</title>
+      <link>https://css-synosys.github.io/publication/phillipp-2024-susceptibility/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/publication/phillipp-2024-susceptibility/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

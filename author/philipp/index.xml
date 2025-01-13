@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipp | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/author/philipp/</link>
+      <atom:link href="https://css-synosys.github.io/author/philipp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philipp</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_300x300_fit_lanczos_3.png</url>
+      <title>Philipp</title>
+      <link>https://css-synosys.github.io/author/philipp/</link>
+    </image>
+    
+    <item>
+      <title>Philipp Lorenz-Spreen</title>
+      <link>https://css-synosys.github.io/author/philipp-lorenz-spreen/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/philipp-lorenz-spreen/</guid>
+      <description>&lt;p&gt;Philipp leads the junior research group “Computational Social Science” within SynoSys and ScaDS.AI. He and his team are researching the societal impact of digitalization, in particular how the increasingly complex online discourse affects democracies worldwide.
+His aim is to better understand the interplay between human behaviour and the connectivity and functioning of online platforms, in particular how this affects our public discourse and thus our democracy. But also to question the current status quo and explore how this technology offers untapped opportunities for an improved information landscape and participatory democracy lived online. &lt;a href=&#34;https://www.youtube.com/watch?v=FiK7s_0tGsg&amp;amp;t=643s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here more eloquently put by David Bowie&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
