@@ -58,10 +58,6 @@
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/project/fedora/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/tag/information/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -318,14 +314,6 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/post/20-12-02-icml-best-paper/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/post/20-12-01-wowchemy-prize/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -347,9 +335,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/author/sami-nenno/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/author/shariful-islam/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
