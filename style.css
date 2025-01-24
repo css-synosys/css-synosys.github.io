@@ -1,0 +1,12 @@
+.iframe-container {
+    max-width: 800px;  /* Adjust as needed */
+    margin: 0 auto;    /* Center the iframe */
+}
+
+.iframe-container iframe {
+    aspect-ratio: 16 / 9; /* Set the desired ratio (e.g., 16:9 or 4:3) */
+    width: 100%;
+    height: auto;
+    border: none;
+    border-radius: 10px;
+}
