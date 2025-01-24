@@ -5,12 +5,22 @@
     <link>https://css-synosys.github.io/author/philipp-lorenz-spreen/</link>
       <atom:link href="https://css-synosys.github.io/author/philipp-lorenz-spreen/index.xml" rel="self" type="application/rss+xml" />
     <description>Philipp Lorenz-Spreen</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://css-synosys.github.io/author/philipp-lorenz-spreen/avatar_hu_46728c1d8b0f3005.png</url>
       <title>Philipp Lorenz-Spreen</title>
       <link>https://css-synosys.github.io/author/philipp-lorenz-spreen/</link>
     </image>
+    
+    <item>
+      <title>Democracy and Digital Media</title>
+      <link>https://css-synosys.github.io/project/digitalmedia/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/project/digitalmedia/</guid>
+      <description>&lt;p&gt;Digital media has changed the way public spheres function around the world, specifically in the information environment of the internet. Moving from mostly one-to-many communication to a many-to-many system has increased its complexity. In addition, big platforms are curating information flows algorithmically and optimize them for engagement. Our goal is to better understand how those transitions are affecting democracies globally and political behaviour in particular.&lt;/p&gt;
+&lt;p&gt;Phenomena such as affective polarization, the rise of populism, the spread of misinformation and diminishing trust in institutions are potential developments of concern. For us, tools from data science, but also causal inference and experimentation, are essential to achieve this goal of empirically describing the complex mechanisms at play between human behavior, technology and politics.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Real-time assessment of motives for sharing and creating content among highly active Twitter users</title>

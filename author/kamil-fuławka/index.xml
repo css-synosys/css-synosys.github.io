@@ -5,7 +5,7 @@
     <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
       <atom:link href="https://css-synosys.github.io/author/kamil-fu%C5%82awka/index.xml" rel="self" type="application/rss+xml" />
     <description>Kamil Fuławka</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://css-synosys.github.io/author/kamil-fu%C5%82awka/avatar_hu_30334330dd6970db.jpg</url>
       <title>Kamil Fuławka</title>
@@ -15,9 +15,21 @@
     <item>
       <title>Kamil Fuławka</title>
       <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</guid>
       <description>&lt;p&gt;Kamil is a postdoc in the junior research group &amp;ldquo;Computational Social Science.&amp;rdquo; Trained as a psychologist, he specializes in understanding how individuals make decisions under risk and uncertainty. His core research interests focus on the (dis)adaptive roles of emotions and heuristics in decision-making and the dynamics of the decision-making process itself. Kamil’s research motivation is fueled by challenges in health-related decisions, such as vaccine hesitancy and food choices, and the impact of contemporary affective (emotional) propaganda on political preferences. His work integrates various methods, including computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports with large language models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psychology of Digital Propaganda</title>
+      <link>https://css-synosys.github.io/project/propaganda/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/project/propaganda/</guid>
+      <description>&lt;p&gt;Across the globe, worries are growing about the unchecked power of social media and emerging digital platforms. As the viral content is believed to shape public opinions, the question of how exactly these forces influence individual and collective beliefs, attitudes, and behavior has never been more urgent.&lt;/p&gt;
+&lt;p&gt;Our research focuses on Digital Propaganda, which we understand as orchestrated efforts by various actors—be they political, corporate, or ideological—to influence the public for their own benefit. Leveraging user data and sophisticated algorithms, today’s social media and digital platforms enable these campaigns to operate with greater precision and scale than ever before, far surpassing what was possible with television or radio alone. By personalizing messages for individual users, repeating them relentlessly, simplifying complex issues into stark narratives, and amplifying emotionally charged content, this new digital environment intensifies the potential to shock, polarize, and manipulate large segments of the population.&lt;/p&gt;
+&lt;p&gt;Although these tactics clearly exploit known cognitive biases and emotional reactivity, we still lack precise causal evidence of how exactly they shape people’s feelings, beliefs, and behaviors. Many assume digital propaganda wields near-absolute power, yet a deeper understanding of which elements of human cognition and behavior are truly affected—and in what ways—remains elusive. Through large-scale experimentation, computational modeling, and psychologically driven and AI-supported analysis of social media content, we aim to bring robust empirical evidence to the table to uncover these mechanisms.&lt;/p&gt;
+&lt;p&gt;Ultimately, by bridging these knowledge gaps, we seek to lay the groundwork for evidence-based psychological interventions that empower individuals to recognize and resist manipulative strategies. At the same time, our findings will offer crucial insights for policymakers and platform regulators, helping them craft balanced measures that safeguard users from harmful content while upholding the essential values of open dialogue and informed participation.&lt;/p&gt;
 </description>
     </item>
     
