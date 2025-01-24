@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Media | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/tag/social-media/</link>
+      <atom:link href="https://css-synosys.github.io/tag/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Media</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_hu_94278513e1d00356.png</url>
+      <title>Social Media</title>
+      <link>https://css-synosys.github.io/tag/social-media/</link>
+    </image>
+    
+    <item>
+      <title>Our group has started</title>
+      <link>https://css-synosys.github.io/post/start/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/post/start/</guid>
+      <description>&lt;p&gt;The Computational Social Science group has started their work!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
