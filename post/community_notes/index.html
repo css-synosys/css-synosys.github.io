@@ -1,0 +1,1237 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: February 20, 2025 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.ca2b0381ce61b6f8f6021c52964a40a7.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Philipp Lorenz-Spreen" />
+
+
+
+
+
+  
+
+<meta name="description" content="Community notes are supposed to curb disinformation on X - but they themselves follow political patterns. A new data analysis shows that Green Party posts are particularly criticised, but their notes are hardly considered helpful. At the same time, there is no clear political trend in the notes that are actually published. Why is this the case? The article analyses patterns in the distribution and rating of the notes and sheds light on the dynamics that can be derived from the data." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://css-synosys.github.io/post/community_notes/" />
+<link rel="canonical" href="https://css-synosys.github.io/post/community_notes/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_7c9abe4104855d6d.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_764453326e1d1d04.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://css-synosys.github.io/post/community_notes/featured.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="CSS-Synosys" />
+<meta property="og:url" content="https://css-synosys.github.io/post/community_notes/" />
+<meta property="og:title" content="Do Community Notes have a party preference? | CSS-Synosys" />
+<meta property="og:description" content="Community notes are supposed to curb disinformation on X - but they themselves follow political patterns. A new data analysis shows that Green Party posts are particularly criticised, but their notes are hardly considered helpful. At the same time, there is no clear political trend in the notes that are actually published. Why is this the case? The article analyses patterns in the distribution and rating of the notes and sheds light on the dynamics that can be derived from the data." /><meta property="og:image" content="https://css-synosys.github.io/post/community_notes/featured.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2025-02-20T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2025-02-20T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://css-synosys.github.io/post/community_notes/"
+  },
+  "headline": "Do Community Notes have a party preference?",
+  
+  "image": [
+    "https://css-synosys.github.io/post/community_notes/featured.png"
+  ],
+  
+  "datePublished": "2025-02-20T00:00:00Z",
+  "dateModified": "2025-02-20T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sami Nenno"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "CSS at SynoSys",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://css-synosys.github.io/media/logo_hu_1bc4d8b41d5e0369.png"
+    }
+  },
+  "description": "\u003cp\u003e\u003cstrong\u003eCommunity notes are supposed to curb disinformation on X - but they themselves follow political patterns. A new data analysis shows that Green Party posts are particularly criticised, but their notes are hardly considered helpful. At the same time, there is no clear political trend in the notes that are actually published. Why is this the case? The article analyses patterns in the distribution and rating of the notes and sheds light on the dynamics that can be derived from the data.\u003c/strong\u003e\u003c/p\u003e"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Do Community Notes have a party preference? | CSS-Synosys</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="411967a7404d7cbee198390b0d500f17" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu_6fa37b0d5dd5cc0d.png" alt="CSS-Synosys"
+            
+            ></a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu_6fa37b0d5dd5cc0d.png" alt="CSS-Synosys"
+          
+          ></a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+
+
+<li class="nav-item">
+  <a class="nav-link " 
+     href="/#tour" 
+     ><span>Tour</span></a>
+</li>
+
+
+
+
+
+
+<li class="nav-item">
+  <a class="nav-link " 
+     href="/project" 
+     ><span>Research</span></a>
+</li>
+
+
+
+
+
+
+<li class="nav-item">
+  <a class="nav-link " 
+     href="/#news" 
+     ><span>News</span></a>
+</li>
+
+
+
+
+
+
+<li class="nav-item">
+  <a class="nav-link " 
+     href="/#people" 
+     ><span>Team</span></a>
+</li>
+
+
+
+
+
+
+<li class="nav-item">
+  <a class="nav-link " 
+     href="/publication" 
+     ><span>Publications</span></a>
+</li>
+
+
+
+
+
+
+<li class="nav-item">
+  <a class="nav-link " 
+     href="https://synosys.github.io/" 
+     target="_blank" rel="noopener noreferrer"><span>SynoSys</span></a>
+</li>
+
+
+
+
+
+
+<li class="nav-item">
+  <a class="nav-link " 
+     href="/contact" 
+     ><span>Contact</span></a>
+</li>
+
+
+
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<div class="article-container pt-3">
+  <h1>Do Community Notes have a party preference?</h1>
+
+  
+
+   
+
+<div class="article-metadata">
+   
+   
+  <div>
+
+  <span >
+      <a href="/author/sami-nenno/">Sami Nenno</a></span></div>
+            
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 464px;">
+  <div style="position: relative">
+    <img src="/post/community_notes/featured_hu_39e3ad40ead046cb.webp" width="720" height="464" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><strong>Community notes are supposed to curb disinformation on X - but they themselves follow political patterns. A new data analysis shows that Green Party posts are particularly criticised, but their notes are hardly considered helpful. At the same time, there is no clear political trend in the notes that are actually published. Why is this the case? The article analyses patterns in the distribution and rating of the notes and sheds light on the dynamics that can be derived from the data.</strong></p>
+<p><strong>Note: This work has not yet been peer reviewed.</strong></p>
+<h2 id="community-notes-instead-of-fact-checks">Community Notes instead of Fact-checks?</h2>
+<p>At the beginning of the year, <a href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/" target="_blank"> Meta&rsquo;s CEO Mark Zuckerberg announced </a> that the company was ending its collaboration with independent fact-checkers replacing them with X-style Community Notes (Notes for short). Zuckerberg claimed that fact-checking limited free speech. However, <a href="https://netzpolitik.org/2025/zuckerbergs-kehrtwende-meta-goes-maga/" target="_blank">it seems more likely</a> that this is a concession to Trump and the Republican Party, who accuse fact-checkers of being politically motivated.</p>
+<p>The accusation that fact-checking is biased in favour of the left or liberal camp is not new and is also made in <a href="https://www.nzz.ch/meinung/faktenchecks-zuckerberg-musk-trump-medien-aktivismus-ard-faktenfinder-russland-nordstream-propaganda-fake-news-ld.1867044" target="_blank">German-speaking countries</a>. Of course, fact-checking, like any other journalistic genre, is not free of errors and distortions. However, it is often overlooked that disinformation is frequently associated with right-wing and populist attitudes (Lasser et al. 2022, Törnberg and Chueri 2025). If fact-checks tend to scrutinise right-wing actors, this does not necessarily reveal a bias, but could also reflect an actual asymmetry (Mosleh et al. 2024). For example, a recent study shows that helpful Notes are also more likely to be found in posts from the Republicans (Renault et al. 2025).</p>
+<p>This blog post presents the results of a data analysis of German-language Notes that were rated as helpful or unhelpful at least 20 times and published between January 2024 and January 2025 inclusive. As Notes will also be launched on Facebook and Instagram in the future (initially only in the US), it is worth asking whether there is a focus on parties from a particular ideological spectrum.</p>
+<h2 id="how-do-community-notes-work-on-x">How do Community Notes work on X?</h2>
+<p>Notes are found as comments on posts and are intended to point out their shortcomings. The Notes for this data analysis show posts as incorrect or unverified (Fig. 1). Notes are written by previously registered users. To register, the account must be older than six months and a verified phone number is required. Because anyone can participate, Notes are often described as the wisdom of the crowd and contrasted with fact-checks as an unbiased alternative. However, this interpretation overlooks the fact that the users who write Notes are not free of political views. Their assessments and comments may therefore be influenced by their own interests or ideological biases (Allen et al. 2022).</p>
+<p><img src="/Söder_Community_Note.png" width="50%" height="700px" frameborder="0"></img></p>
+<p><strong>Figure 1</strong> <a href="https://x.com/Markus_Soeder/status/1879106313956765889" target="_blank">Post</a> with a community note that was rated as helpful and therefore published.</p>
+<p>Precisely because a single registration is enough to write Notes for all posts on X, this is not yet a sign of quality for their correctness. For this reason, registered users can not only write their own Notes, but also rate the Notes of others as helpful or not. To arrive at a final rating, X uses a so-called bridging algorithm. This algorithm takes into account the position of registered users on the political spectrum and requires contributors with different viewpoints to rate the note as helpful (Wojcik et al. 2022). This process is often successful in reflecting the political spectrum, but it also ensures that significantly fewer Notes are published than are actually written.</p>
+<h2 id="which-accounts-of-german-parties-and-politicians-receive-community-notes">Which accounts of German parties and politicians receive Community Notes?</h2>
+<iframe src="/Barplots.html" width="100%" height="600px" frameborder="0"></iframe>
+<p><strong>Figure 2</strong> Number of posts with Community Notes.</p>
+<p>In the following, I present the results of the data analysis. In total, I analysed almost 9000 Notes, of which almost 1700 were considered helpful and therefore published. Figure 2a shows the accounts with the most Notes. Of all accounts on X, Markus Söder, the leader of the CSU and Chief Minister of Bavaria, received the most Notes. However, this changes when it comes to helpful Notes (Fig. 2b). Here, with the exception of Julian Reichelt, former editor-in-chief of Bild and founder of Nius, rather unknown accounts are among the top-ranked accounts. Political accounts, namely those of the CSU and Markus Söder, are only found from 8th place onwards. With this in mind, and also looking at Fig. 2c and Fig. 2d, we can see that the accounts with the most Notes and those with the most helpful Notes are in some cases very different.</p>
+<h2 id="which-parties-receive-the-most-community-notes">Which parties receive the most Community Notes?</h2>
+<iframe src="/Barplots_Parties.html" width="100%" height="500px" frameborder="0"></iframe>
+<p><strong>Figure 3</strong>	Number of posts with Community Notes.</p>
+<p>Figure 3 shows the Notes of German politicians by party. Party scores are often strongly influenced by individual politicians. As shown in Figure 2, for the CSU it is mainly the official party account and that of Markus Söder. For the SPD it is mainly Ralf Stegner, member of the Bundestag, and Arno Gottschalk, financial policy spokesman for the Bremen parliamentary group. A rough analysis of the content shows that Stegner&rsquo;s posts mainly relate to the Russian war in Ukraine.</p>
+<p>As before, the ranking of most Notes differs if you only look at the helpful ones. The Greens lead the ranking of Notes, closely followed by the parties of the right-wing spectrum. However, if only the helpful Notes are considered, the Greens slip to sixth place, while the SPD takes first place. Only 4% of the Notes for the Greens are rated as helpful - well below the average of around 19% for all Notes and 12% for party posts. This means that the low score for the Greens is still striking. Why is this the case?</p>
+<h2 id="january-effect-coordinated-campaign-or-random-accumulation">January effect: coordinated campaign or random accumulation?</h2>
+<iframe src="/Party_Timeline.html" width="100%" height="700px" frameborder="0"></iframe>
+<p><strong>Figure 4</strong> Monthly distribution of (helpful) Community Notes for the parties&rsquo; posts.</p>
+<p>To see if the unusual pattern for the Greens can be linked to a specific event, Figure 4 shows the temporal distribution of posts with Notes. And indeed: There is a sharp increase in Notes for the Greens and the SPD in January 2025. Expressed in figures, about 29% of the 180 posts with Notes for the Greens can be attributed to this one month. The figure for the SPD is almost the same.</p>
+<p>This sharp increase cannot simply be explained by increased party activity. In January, the Greens published about the same number of posts as the AfD, while the SPD published only half as many. Similarly, there was no comparable increase on X following the return of Robert Habeck, the Greens&rsquo; Federal Minister for Economy and Climate Protection.</p>
+<p>By comparison, since the second half of 2024 the AFD has recorded fewer Notes overall than before, with the exception of September. Although there were individual months with a high number of Notes for the AfD, in no case did a single month account for more than 14% of all Notes for the party.</p>
+<p><strong>Unusually many Notes - coincidence or pattern?</strong>
+Who are the users who created and rated the Notes for the Greens and SPD in January 2025? As Notes are assigned anonymously, there is limited information available about the accounts.</p>
+<p>There are no anomalies in the age of the accounts: The Notes for the Greens and the SPD do not come disproportionately from fresh accounts. Although there were more new accounts on X overall in January, this pattern is the same for all parties. However, the activity of the rating accounts is striking: Users sw who rated Notes for the Greens gave an average of two ratings - significantly more than the average for the Greens as a whole (around 1.3) and above the general monthly average (around 1.2). In other words: In January, not only were there an unusually high number of Notes for the Greens, but also a particularly active group of users who rated them. However, it is not possible to tell from the data whether there was any coordination between the accounts.</p>
+<p>In terms of content, the Greens&rsquo; posts covered a wide range of topics. These included references to political opponents, in particular CDU leader Friedrich Merz and his vote with the AfD. They also discussed the number of participants in the subsequent demonstrations, interpretations of recent poll results, criticism of Elon Musk and statements about Germany&rsquo;s energy supply, some with references to Putin.</p>
+<p>Musk also played a role for the SPD, albeit to a lesser extent. Friedrich Merz was similarly prominent, as he was for the Greens. But another key issue was the statement by the SPD leadership that the party had never collaborated with Nazis - a claim that was picked up by many Notes.</p>
+<p><strong>No clear political orientation of the helpful Community Notes</strong>
+Community Notes are intended to highlight shortcomings in posts on X. As they can be written and rated by all registered users, the question arises as to whether party political tendencies can be inferred from them. The analysis shows that contributions from the Green Party receive a particularly high number of Notes, but only a fraction of these are rated as helpful and therefore published. It is also striking that this effect was particularly strong in January of this year.</p>
+<p>What does this say about registered users and their rating behaviour? For a note to be considered helpful by the bridging algorithm, the users who rate it must have previously held different viewpoints. The low rate of helpful Notes for the Greens suggests that this is not the case - the users who rate seem to be relatively politically homogeneous. Whether this is just a natural group formation or even coordinated activity - such as bots or politically motivated troll campaigns - cannot be determined with the available data. However, it should be noted that this voting behaviour is particularly directed against the Greens and also against the SPD.</p>
+<p>At the same time, the number of Notes for AfD posts has decreased in recent months. This could mean that fewer users are adding Notes to AfD posts - or that these posts are being checked less frequently. This is a development that fits with the general sentiment on X in favour of the AfD (Nenno and Lorenz-Spreen 2025).</p>
+<p>A different picture emerges if you only look at the Notes that were actually published, i.e. rated as helpful. Here, posts from the SPD are the most common, while those from the Greens and the Left appear rather rarely. The CDU/CSU and AFD are in the middle of the field. The bridging algorithm thus ensures a certain numerical balance between parties to the left and right of the centre. However, this balance does not necessarily mean that community Notes paint an objective or neutral picture. What matters is not just how many Notes a party receives, but whether they actually correct misleading content - because ultimately the goal should be to effectively identify and label disinformation on X.</p>
+<p><strong>References</strong></p>
+<ul>
+<li>Allen, J., Martel, C., &amp; Rand, D. G. (2022). Birds of a feather don’t fact-check each other: Partisanship and the evaluation of news in Twitter’s Birdwatch crowdsourced fact-checking program. Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, 1–19. <a href="https://doi.org/10.1145/3491102.3502040" target="_blank" rel="noopener">https://doi.org/10.1145/3491102.3502040</a></li>
+<li>Lasser, J., Aroyehun, S. T., Simchon, A., Carrella, F., Garcia, D., &amp; Lewandowsky, S. (2022). Social media sharing of low-quality news sources by political elites. PNAS Nexus, 1(4), pgac186. <a href="https://doi.org/10.1093/pnasnexus/pgac186" target="_blank" rel="noopener">https://doi.org/10.1093/pnasnexus/pgac186</a></li>
+<li>Nenno, S., &amp; Lorenz-Spreen, P. (2025). Do Alice Weidel and the AfD benefit from Musk’s attention on X? <a href="https://doi.org/10.5281/zenodo.14749544" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.14749544</a></li>
+<li>Renault, T., Mosleh, M., &amp; Rand, D. (2025). Republicans are flagged more often than Democrats for sharing misinformation on X’s Community Notes. OSF. <a href="https://doi.org/10.31234/osf.io/vk5yj_v2" target="_blank" rel="noopener">https://doi.org/10.31234/osf.io/vk5yj_v2</a></li>
+<li>Törnberg, P., &amp; Chueri, J. (2025). When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries. The International Journal of Press/Politics, 19401612241311886. <a href="https://doi.org/10.1177/19401612241311886" target="_blank" rel="noopener">https://doi.org/10.1177/19401612241311886</a></li>
+<li>Wojcik, S., Hilgard, S., Judd, N., Mocanu, D., Ragain, S., Hunzaker, M. B. F., Coleman, K., &amp; Baxter, J. (2022). Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of Misinformation (No. arXiv:2210.15723). arXiv. <a href="https://doi.org/10.48550/arXiv.2210.15723" target="_blank" rel="noopener">https://doi.org/10.48550/arXiv.2210.15723</a></li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/elections/">Elections</a>
+  
+  <a class="badge badge-light" href="/tag/social-media/">Social Media</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fcss-synosys.github.io%2Fpost%2Fcommunity_notes%2F&amp;text=Do&#43;Community&#43;Notes&#43;have&#43;a&#43;party&#43;preference%3F" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fcss-synosys.github.io%2Fpost%2Fcommunity_notes%2F&amp;t=Do&#43;Community&#43;Notes&#43;have&#43;a&#43;party&#43;preference%3F" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Do%20Community%20Notes%20have%20a%20party%20preference%3F&amp;body=https%3A%2F%2Fcss-synosys.github.io%2Fpost%2Fcommunity_notes%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fcss-synosys.github.io%2Fpost%2Fcommunity_notes%2F&amp;title=Do&#43;Community&#43;Notes&#43;have&#43;a&#43;party&#43;preference%3F" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Do&#43;Community&#43;Notes&#43;have&#43;a&#43;party&#43;preference%3F%20https%3A%2F%2Fcss-synosys.github.io%2Fpost%2Fcommunity_notes%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fcss-synosys.github.io%2Fpost%2Fcommunity_notes%2F&amp;title=Do&#43;Community&#43;Notes&#43;have&#43;a&#43;party&#43;preference%3F" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/sami-nenno/"><img class="avatar mr-3 avatar-circle" src="/author/sami-nenno/avatar_hu_cac2d06eb2fff616.png" alt="Sami Nenno"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/sami-nenno/">Sami Nenno</a></h5>
+      <h6 class="card-subtitle">PostDoc</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:sami.nenno@tu-dresden.de" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://x.com/saminenno" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=yDSJgXMAAAAJ&amp;hl=de" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/SamiNenno" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+<p class="powered-by">
+  
+  <a href="/privacy/">Privacy Policy</a>
+  
+  
+   &middot; 
+  <a href="/terms/">Terms</a>
+  
+</p>
+
+
+
+<div class="centered-link-container">
+  <a href="https://tu-dresden.de/cids" target="_blank" rel="noopener" style="display: inline-block; width: auto; height: auto; text-align: center;">
+    <img src="/media/cids.png" alt="CIDS" style="width: 70px; height: 35px; display: block; margin: 0 auto;">
+  </a>
+  
+</div>
+
+
+
+
+               
+<p class="powered-by copyright-license-text">
+  © 2025 Me. This work is licensed under <a>CIDS</a>
+</p>
+  
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+  <p class="text-center font-weight-bold">All right reserved TU Dresden</p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.5faf09821dbe513ca103e87bafd52766.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.ac1b70592543393148c2e6c6ddc1c96a.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="stylesheet" href="/css/style.css">
+  
+</body>
+</html>
