@@ -91,7 +91,6 @@
       <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48880648204/CourseNode/1743474776839555003&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Time  Thursdays, 5. DS&lt;/p&gt;
 &lt;p&gt;Location  BAR/0I89&lt;/p&gt;
-&lt;p&gt;Type/SWS  (0/0/2) Seminar&lt;/p&gt;
 &lt;p&gt;Department   Computer Science&lt;/p&gt;
 &lt;p&gt;Modules   INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
 &lt;p&gt;Language  English&lt;/p&gt;
@@ -127,11 +126,9 @@
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/teaching/methods_css/</guid>
       <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48847978502/CourseNode/1743388566773105003/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Time (Lecture)  Mondays, 3. DS&lt;/p&gt;
-&lt;p&gt;Location (Lecture)  APB/E001&lt;/p&gt;
-&lt;p&gt;Time (Exercise)   Mondays, 5. DS&lt;/p&gt;
-&lt;p&gt;Location (Exercise)   APB/E010&lt;/p&gt;
-&lt;p&gt;Type/SWS  (2/2/0)&lt;/p&gt;
+&lt;p&gt;Time (Lecture)  Mondays, 3. DS and 5. DS&lt;/p&gt;
+&lt;p&gt;Location  APB/E001&lt;/p&gt;
+&lt;p&gt;Department   Computer Science&lt;/p&gt;
 &lt;p&gt;Modules   INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
 &lt;p&gt;Language  English&lt;/p&gt;
 &lt;p&gt;Assessment  oral exam&lt;/p&gt;
