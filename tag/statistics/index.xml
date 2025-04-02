@@ -17,9 +17,14 @@
       <link>https://css-synosys.github.io/teaching/stats_model/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/teaching/stats_model/</guid>
-      <description>&lt;p&gt;Modules: INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
-&lt;p&gt;Language: English&lt;/p&gt;
-&lt;p&gt;Assessment: oral exam&lt;/p&gt;
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48880648204/CourseNode/1743474776839555003&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Time  Thursdays, 5. DS&lt;/p&gt;
+&lt;p&gt;Location  BAR/0I89&lt;/p&gt;
+&lt;p&gt;Type/SWS  (0/0/2) Seminar&lt;/p&gt;
+&lt;p&gt;Department   Computer Science&lt;/p&gt;
+&lt;p&gt;Modules   INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
+&lt;p&gt;Language  English&lt;/p&gt;
+&lt;p&gt;Assessment  oral exam&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
 &lt;p&gt;Online platforms generate vast amounts of behavioral data, including subjective ratings (e.g., likes, stars, reactions) and objective engagement metrics (e.g., views, clicks, watch time). While machine learning excels at predicting user behavior, statistical modeling—a cornerstone of empirical research—is critical for interpretable analysis. It helps uncover relationships between user behavior and various factors (e.g., how demographics influence engagement patterns) and enables causal inference in experiments (e.g., measuring the impact of different feed-ranking algorithms on user experience). These methods are widely used in UX research, product analytics, and A/B testing.&lt;/p&gt;
 &lt;p&gt;This course provides a hands-on introduction to statistical modeling in R, focusing on methods most useful for analyzing behavioral data. We&amp;rsquo;ll cover key concepts and progress to model selection based on outcome type. Topics include logistic regression for binary outcomes (e.g., like/dislike reactions), ordinal regression for rating scales, beta regression for continuous feedback (e.g., sliders), and hierarchical models for nested data (e.g., multiple ratings from the same users). In the end, you&amp;rsquo;ll not only know which model to use but also how to effectively visualize and communicate your findings through clear, interpretable result presentations.&lt;/p&gt;

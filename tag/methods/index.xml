@@ -17,9 +17,15 @@
       <link>https://css-synosys.github.io/teaching/methods_css/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/teaching/methods_css/</guid>
-      <description>&lt;p&gt;Modules: INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
-&lt;p&gt;Language: English&lt;/p&gt;
-&lt;p&gt;Assessment: oral exam&lt;/p&gt;
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48847978502/CourseNode/1743388566773105003/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Time (Lecture)  Mondays, 3. DS&lt;/p&gt;
+&lt;p&gt;Location (Lecture)  APB/E001&lt;/p&gt;
+&lt;p&gt;Time (Exercise)   Mondays, 5. DS&lt;/p&gt;
+&lt;p&gt;Location (Exercise)   APB/E010&lt;/p&gt;
+&lt;p&gt;Type/SWS  (2/2/0)&lt;/p&gt;
+&lt;p&gt;Modules   INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
+&lt;p&gt;Language  English&lt;/p&gt;
+&lt;p&gt;Assessment  oral exam&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
 &lt;p&gt;Social media generates new types of data for quantifying human behavior, but also raises interesting research questions about the interaction between technology and society. In this course, we will learn the basics of computational social science, with a focus on text-as-data, and apply its methods to real-world data science problems from social media and other sources.&lt;/p&gt;
 &lt;p&gt;The lecture will introduce you to social science research questions and findings, while the exercise will give you the practical skills to answer social questions yourself using computational tools. The first part focuses on basic techniques of text analysis. We will learn how to collect text data from sources such as newspapers, parliamentary minutes or social media, and how to pre-process it for natural language processing (NLP), such as sentiment analysis.&lt;/p&gt;
