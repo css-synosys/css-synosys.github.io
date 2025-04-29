@@ -5,12 +5,29 @@
     <link>https://css-synosys.github.io/author/sami-nenno/</link>
       <atom:link href="https://css-synosys.github.io/author/sami-nenno/index.xml" rel="self" type="application/rss+xml" />
     <description>Sami Nenno</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://css-synosys.github.io/author/sami-nenno/avatar_hu_cac2d06eb2fff616.png</url>
       <title>Sami Nenno</title>
       <link>https://css-synosys.github.io/author/sami-nenno/</link>
     </image>
+    
+    <item>
+      <title>All The (Fake) News That’s Fit to Share? News Values in Perceived Misinformation across Twenty-Four Countries</title>
+      <link>https://css-synosys.github.io/publication/sami-all-the-fake-news-thats-fit-to-share/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/publication/sami-all-the-fake-news-thats-fit-to-share/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sami Nenno</title>
+      <link>https://css-synosys.github.io/author/sami-nenno/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/sami-nenno/</guid>
+      <description>&lt;p&gt;Sami is a postdoc in the junior research group “Computational Social Science”. His degrees are in Data Science and Philosophy, and Communication Science. Sami is interested in quantitative research and machine learning and combining ideas from different disciplines. He has done research on different topics, including disinformation, software applications for journalists, and methods to document and reduce the electricity usage of machine learning models. In his role in the computational social science unit, he is developing NLP and computer vision methods to analyze data from (social) media platforms and other sources.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Methods for Computational Social Sciences</title>
@@ -52,15 +69,6 @@
 &lt;p&gt;Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., &amp;hellip; &amp;amp; Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.&lt;/p&gt;
 &lt;p&gt;Flache, A., Mäs, M., Feliciani, T., Chattoe-Brown, E., Deffuant, G., Huet, S., &amp;amp; Lorenz, J. (2017). Models of social influence: Towards the next frontiers. Jasss-The journal of artificial societies and social simulation, 20(4), 2.&lt;/p&gt;
 &lt;p&gt;Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., &amp;amp; Hertwig, R. (2023). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature human behaviour, 7(1), 74-101.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sami Nenno</title>
-      <link>https://css-synosys.github.io/author/sami-nenno/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/author/sami-nenno/</guid>
-      <description>&lt;p&gt;Sami is a postdoc in the junior research group “Computational Social Science”. His degrees are in Data Science and Philosophy, and Communication Science. Sami is interested in quantitative research and machine learning and combining ideas from different disciplines. He has done research on different topics, including disinformation, software applications for journalists, and methods to document and reduce the electricity usage of machine learning models. In his role in the computational social science unit, he is developing NLP and computer vision methods to analyze data from (social) media platforms and other sources.&lt;/p&gt;
 </description>
     </item>
     
