@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bao Truong | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/author/bao-truong/</link>
+      <atom:link href="https://css-synosys.github.io/author/bao-truong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bao Truong</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://css-synosys.github.io/author/bao-truong/avatar_hu_e86c25b5d27cc39c.jpg</url>
+      <title>Bao Truong</title>
+      <link>https://css-synosys.github.io/author/bao-truong/</link>
+    </image>
+    
+    <item>
+      <title>Bao Truong</title>
+      <link>https://css-synosys.github.io/author/bao-truong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/bao-truong/</guid>
+      <description>&lt;p&gt;Bao is a postdoc in the junior research group “Computational Social Science”. Her research focuses on the development of technological and policy interventions to reduce online harms. These include: methods to detect abuse of social media, tools to evaluate platform policies and governance, and design heuristics that promote social cohesion and well-being. She approaches these questions using quantitative methods, studying large-scale datasets, network analysis, natural language processing, and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
