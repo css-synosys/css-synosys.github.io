@@ -506,5 +506,8 @@
   </url><url>
     <loc>https://css-synosys.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/ezequiel-lopez-lopez/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

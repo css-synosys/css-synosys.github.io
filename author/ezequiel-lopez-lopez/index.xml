@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ezequiel López-López | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/author/ezequiel-lopez-lopez/</link>
+      <atom:link href="https://css-synosys.github.io/author/ezequiel-lopez-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ezequiel López-López</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://css-synosys.github.io/author/ezequiel-lopez-lopez/avatar_hu_1d6b20c3a10717a7.JPG</url>
+      <title>Ezequiel López-López</title>
+      <link>https://css-synosys.github.io/author/ezequiel-lopez-lopez/</link>
+    </image>
+    
+    <item>
+      <title>Ezequiel López-López</title>
+      <link>https://css-synosys.github.io/author/ezequiel-lopez-lopez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/ezequiel-lopez-lopez/</guid>
+      <description>&lt;p&gt;Trained as a physicist with an interest in complex systems and holding an MSc in Human-Language Technologies, Ezequiel spent his early years working at IBM and Deutsche Bahn, where he developed conversational systems and applied methods in argument mining and text classification. He then joined the Max Planck Institute for Human Development to pursue a PhD focused on supporting policymaking and behavioral science with online tools. His current research explores how information ecosystems—from social media to the use of tools like ChatGPT—shape people’s perceptions and beliefs. He combines network science with large language models to study the dynamics of citizens’ perspectives and their implications for public discourse and policy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
