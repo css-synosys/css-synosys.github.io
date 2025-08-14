@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Norman Zidlicky | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/author/norman-zidlicky/</link>
+      <atom:link href="https://css-synosys.github.io/author/norman-zidlicky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Norman Zidlicky</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://css-synosys.github.io/author/norman-zidlicky/avatar_hu_f8dee0e6c8676b37.JPG</url>
+      <title>Norman Zidlicky</title>
+      <link>https://css-synosys.github.io/author/norman-zidlicky/</link>
+    </image>
+    
+    <item>
+      <title>Norman Zidlicky</title>
+      <link>https://css-synosys.github.io/author/norman-zidlicky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/norman-zidlicky/</guid>
+      <description>&lt;p&gt;Norman joined the group in 2025. With a background spanning sociology and computer science, he brings an interdisciplinary perspective to the intersection of computational methods and social phenomena. During his studies, he explored natural language processing and computational approaches to qualitative social research, particularly focusing on theoretical perspectives on attention economy and social media research. His work bridges traditional sociological inquiry with modern AI techniques, including the application of large language models to social science research questions.&lt;/p&gt;
+&lt;p&gt;At SynoSys, Norman continues this interdisciplinary approach, currently working on his master&amp;rsquo;s thesis examining dynamics of degradation on Twitter, while simultaneously developing tools for tracking and analyzing behavior on social media platforms for data collection and analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
