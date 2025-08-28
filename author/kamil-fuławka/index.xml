@@ -5,12 +5,34 @@
     <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
       <atom:link href="https://css-synosys.github.io/author/kamil-fu%C5%82awka/index.xml" rel="self" type="application/rss+xml" />
     <description>Kamil Fuławka</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://css-synosys.github.io/author/kamil-fu%C5%82awka/avatar_hu_30334330dd6970db.jpg</url>
       <title>Kamil Fuławka</title>
       <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
     </image>
+    
+    <item>
+      <title>Kamil Fuławka</title>
+      <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</guid>
+      <description>&lt;p&gt;Kamil is a postdoc in the junior research group &amp;ldquo;Computational Social Science.&amp;rdquo; Trained as a psychologist, he specializes in understanding how individuals make decisions under risk and uncertainty. His core research interests focus on the (dis)adaptive roles of emotions and heuristics in decision-making and the dynamics of the decision-making process itself. Kamil’s research motivation is fueled by challenges in health-related decisions, such as vaccine hesitancy and food choices, and the impact of contemporary affective (emotional) propaganda on political preferences. His work integrates various methods, including computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports with large language models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preprint on decision-making and large language models</title>
+      <link>https://css-synosys.github.io/post/preprint-25/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/post/preprint-25/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Can large language models help us understand the psychology of risky choice?&lt;/strong&gt;&lt;br&gt;
+Our colleague &lt;strong&gt;Kamil Fulawka&lt;/strong&gt; is the first author of a new preprint that tackles this question. Together with Ralph Hertwig and Dirk Wulff, he introduces a scalable approach to analyze participants’ free-text explanations of their decisions.&lt;/p&gt;
+&lt;p&gt;The study shows that LLMs can accurately identify the reasons people give for their lottery choices in more than 92% of cases. These verbal reports reveal systematic patterns: people’s reasoning depends strongly on the structure of the choice problem rather than being fixed across individuals. Models built on these reason profiles also achieve higher predictive accuracy than prospect theory, one of the most established frameworks in decision science.&lt;/p&gt;
+&lt;p&gt;By demonstrating the scientific value of verbal data, this work opens new avenues for developing context-aware models of human decision-making.&lt;/p&gt;
+&lt;p&gt;👉 A more detailed description of the analysis, as well as the code and data, can be found &lt;a href=&#34;https://osf.io/preprints/psyarxiv/yuzmw_v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introduction to Statistical Modeling for Online Behavior Data</title>
@@ -46,15 +68,6 @@
 &lt;p&gt;Week 3      Hierarchical models 2: logistic and ordinal regression&lt;/p&gt;
 &lt;p&gt;Week 4      Hierarchical models 3: Beta regression&lt;/p&gt;
 &lt;p&gt;Week 5      Final session, Q&amp;amp;A, discussion and feedback&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kamil Fuławka</title>
-      <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</guid>
-      <description>&lt;p&gt;Kamil is a postdoc in the junior research group &amp;ldquo;Computational Social Science.&amp;rdquo; Trained as a psychologist, he specializes in understanding how individuals make decisions under risk and uncertainty. His core research interests focus on the (dis)adaptive roles of emotions and heuristics in decision-making and the dynamics of the decision-making process itself. Kamil’s research motivation is fueled by challenges in health-related decisions, such as vaccine hesitancy and food choices, and the impact of contemporary affective (emotional) propaganda on political preferences. His work integrates various methods, including computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports with large language models.&lt;/p&gt;
 </description>
     </item>
     

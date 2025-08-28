@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decision-Making | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/tag/decision-making/</link>
+      <atom:link href="https://css-synosys.github.io/tag/decision-making/index.xml" rel="self" type="application/rss+xml" />
+    <description>Decision-Making</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_hu_8314fbf1d9759f2e.png</url>
+      <title>Decision-Making</title>
+      <link>https://css-synosys.github.io/tag/decision-making/</link>
+    </image>
+    
+    <item>
+      <title>Preprint on decision-making and large language models</title>
+      <link>https://css-synosys.github.io/post/preprint-25/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/post/preprint-25/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Can large language models help us understand the psychology of risky choice?&lt;/strong&gt;&lt;br&gt;
+Our colleague &lt;strong&gt;Kamil Fulawka&lt;/strong&gt; is the first author of a new preprint that tackles this question. Together with Ralph Hertwig and Dirk Wulff, he introduces a scalable approach to analyze participants’ free-text explanations of their decisions.&lt;/p&gt;
+&lt;p&gt;The study shows that LLMs can accurately identify the reasons people give for their lottery choices in more than 92% of cases. These verbal reports reveal systematic patterns: people’s reasoning depends strongly on the structure of the choice problem rather than being fixed across individuals. Models built on these reason profiles also achieve higher predictive accuracy than prospect theory, one of the most established frameworks in decision science.&lt;/p&gt;
+&lt;p&gt;By demonstrating the scientific value of verbal data, this work opens new avenues for developing context-aware models of human decision-making.&lt;/p&gt;
+&lt;p&gt;👉 A more detailed description of the analysis, as well as the code and data, can be found &lt;a href=&#34;https://osf.io/preprints/psyarxiv/yuzmw_v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
