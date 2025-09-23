@@ -35,39 +35,101 @@ Our colleague &lt;strong&gt;Kamil Fulawka&lt;/strong&gt; is the first author of 
     </item>
     
     <item>
+      <title>Introduction to Complex Systems in Biology (and Beyond)</title>
+      <link>https://css-synosys.github.io/teaching/complex_system_biology/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/teaching/complex_system_biology/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;This course offers an overview and basic understanding of complex dynamic phenomena in biological, physical and social systems. The focus is on biological systems but with a comparative perspective that reveals the universal principles underlying complex behavior across different domains.&lt;/p&gt;
+&lt;p&gt;Students will learn to think about biological systems as complex adaptive systems, where interactions between molecules, cells, or organisms give rise to emergent properties that cannot be understood from studying individual components in isolation.&lt;/p&gt;
+&lt;h3 id=&#34;course-structure&#34;&gt;Course Structure:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Part I: Foundations of Complexity&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What makes a system complex?&lt;/li&gt;
+&lt;li&gt;Networks and connectivity patterns&lt;/li&gt;
+&lt;li&gt;Dynamical systems in biology&lt;/li&gt;
+&lt;li&gt;Emergence and self-organization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part II: Biological Applications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gene regulatory networks&lt;/li&gt;
+&lt;li&gt;Metabolic networks&lt;/li&gt;
+&lt;li&gt;Neural networks and brain dynamics&lt;/li&gt;
+&lt;li&gt;Ecological networks and food webs&lt;/li&gt;
+&lt;li&gt;Evolution as a complex process&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part III: Comparative Perspectives&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Social systems as complex adaptive systems&lt;/li&gt;
+&lt;li&gt;Physical systems and universality&lt;/li&gt;
+&lt;li&gt;Common patterns across domains&lt;/li&gt;
+&lt;li&gt;Modeling approaches and tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;practical-components&#34;&gt;Practical Components:&lt;/h3&gt;
+&lt;p&gt;The course includes hands-on exercises using:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Network analysis tools&lt;/li&gt;
+&lt;li&gt;Computational modeling (agent-based models, differential equations)&lt;/li&gt;
+&lt;li&gt;Data analysis of real biological datasets&lt;/li&gt;
+&lt;li&gt;Case studies from current research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;assessment-components&#34;&gt;Assessment Components:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Presentation (40%)&lt;/strong&gt;: Research presentation on a selected complex biological system&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Written Exam (60%)&lt;/strong&gt;: Theoretical knowledge and problem-solving&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic biology background (cell biology, genetics, ecology)&lt;/li&gt;
+&lt;li&gt;Mathematical foundations (calculus, basic statistics)&lt;/li&gt;
+&lt;li&gt;Some programming experience helpful but not required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;target-audience&#34;&gt;Target Audience:&lt;/h3&gt;
+&lt;p&gt;This course is designed for students in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Biology and life sciences&lt;/li&gt;
+&lt;li&gt;Bioinformatics and computational biology&lt;/li&gt;
+&lt;li&gt;Physics with biological interests&lt;/li&gt;
+&lt;li&gt;Systems science and related fields&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Introduction to Statistical Modeling for Online Behavior Data</title>
       <link>https://css-synosys.github.io/teaching/stats_model/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/teaching/stats_model/</guid>
       <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48880648204/CourseNode/1743474776839555003&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Time  Thursdays, 5. DS&lt;/p&gt;
-&lt;p&gt;Location  BAR/0I89&lt;/p&gt;
-&lt;p&gt;Department   Computer Science&lt;/p&gt;
-&lt;p&gt;Modules   INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
-&lt;p&gt;Language  English&lt;/p&gt;
-&lt;p&gt;Assessment  oral exam&lt;/p&gt;
+&lt;p&gt;Time Thursdays, 5. DS&lt;/p&gt;
+&lt;p&gt;Location BAR/0I89&lt;/p&gt;
+&lt;p&gt;Department Computer Science&lt;/p&gt;
+&lt;p&gt;Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
+&lt;p&gt;Language English&lt;/p&gt;
+&lt;p&gt;Assessment oral exam&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
 &lt;p&gt;Online platforms generate vast amounts of behavioral data, including subjective ratings (e.g., likes, stars, reactions) and objective engagement metrics (e.g., views, clicks, watch time). While machine learning excels at predicting user behavior, statistical modeling—a cornerstone of empirical research—is critical for interpretable analysis. It helps uncover relationships between user behavior and various factors (e.g., how demographics influence engagement patterns) and enables causal inference in experiments (e.g., measuring the impact of different feed-ranking algorithms on user experience). These methods are widely used in UX research, product analytics, and A/B testing.&lt;/p&gt;
 &lt;p&gt;This course provides a hands-on introduction to statistical modeling in R, focusing on methods most useful for analyzing behavioral data. We&amp;rsquo;ll cover key concepts and progress to model selection based on outcome type. Topics include logistic regression for binary outcomes (e.g., like/dislike reactions), ordinal regression for rating scales, beta regression for continuous feedback (e.g., sliders), and hierarchical models for nested data (e.g., multiple ratings from the same users). In the end, you&amp;rsquo;ll not only know which model to use but also how to effectively visualize and communicate your findings through clear, interpretable result presentations.&lt;/p&gt;
 &lt;p&gt;No prior statistical modeling experience is required. If you&amp;rsquo;re familiar with Python or similar languages, the transition to R should be easy. All scripts and exercises are provided.&lt;/p&gt;
 &lt;h3 id=&#34;schedule&#34;&gt;Schedule:&lt;/h3&gt;
 &lt;p&gt;Part 1: General Introduction&lt;/p&gt;
-&lt;p&gt;Week 1        Introduction to statistical modeling: goals and principles&lt;/p&gt;
-&lt;p&gt;Week 2      Linear regression: the foundational model, applications and limitations&lt;/p&gt;
+&lt;p&gt;Week 1 Introduction to statistical modeling: goals and principles&lt;/p&gt;
+&lt;p&gt;Week 2 Linear regression: the foundational model, applications and limitations&lt;/p&gt;
 &lt;p&gt;Part 2: Selected Generalized Linear Models&lt;/p&gt;
-&lt;p&gt;Week 1      Logistic regression 1: analysis of likes and dislikes&lt;/p&gt;
-&lt;p&gt;Week 2      Logistic regression 2: multivariate analysis&lt;/p&gt;
-&lt;p&gt;Week 3      Ordinal regression 1: stars and other likert-type ratings&lt;/p&gt;
-&lt;p&gt;Week 4      Ordinal regression 2: modeling distributional parameters&lt;/p&gt;
-&lt;p&gt;Week 5      Beta regression 1: slider-type ratings&lt;/p&gt;
-&lt;p&gt;Week 6      Beta regression 2: modeling distributional parameters&lt;/p&gt;
-&lt;p&gt;Week 7      Interim summary, additional exercises, and other GLMs&lt;/p&gt;
+&lt;p&gt;Week 1 Logistic regression 1: analysis of likes and dislikes&lt;/p&gt;
+&lt;p&gt;Week 2 Logistic regression 2: multivariate analysis&lt;/p&gt;
+&lt;p&gt;Week 3 Ordinal regression 1: stars and other likert-type ratings&lt;/p&gt;
+&lt;p&gt;Week 4 Ordinal regression 2: modeling distributional parameters&lt;/p&gt;
+&lt;p&gt;Week 5 Beta regression 1: slider-type ratings&lt;/p&gt;
+&lt;p&gt;Week 6 Beta regression 2: modeling distributional parameters&lt;/p&gt;
+&lt;p&gt;Week 7 Interim summary, additional exercises, and other GLMs&lt;/p&gt;
 &lt;p&gt;Part 3: Experimental design &amp;amp; hierarchical models&lt;/p&gt;
-&lt;p&gt;Week 1      Modeling between- and within-individual experimental designs&lt;/p&gt;
-&lt;p&gt;Week 2      Hierarchical models 1: introduction&lt;/p&gt;
-&lt;p&gt;Week 3      Hierarchical models 2: logistic and ordinal regression&lt;/p&gt;
-&lt;p&gt;Week 4      Hierarchical models 3: Beta regression&lt;/p&gt;
-&lt;p&gt;Week 5      Final session, Q&amp;amp;A, discussion and feedback&lt;/p&gt;
+&lt;p&gt;Week 1 Modeling between- and within-individual experimental designs&lt;/p&gt;
+&lt;p&gt;Week 2 Hierarchical models 1: introduction&lt;/p&gt;
+&lt;p&gt;Week 3 Hierarchical models 2: logistic and ordinal regression&lt;/p&gt;
+&lt;p&gt;Week 4 Hierarchical models 3: Beta regression&lt;/p&gt;
+&lt;p&gt;Week 5 Final session, Q&amp;amp;A, discussion and feedback&lt;/p&gt;
 </description>
     </item>
     

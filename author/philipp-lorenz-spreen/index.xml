@@ -44,6 +44,57 @@
     </item>
     
     <item>
+      <title>Introduction to Complex Systems</title>
+      <link>https://css-synosys.github.io/teaching/complex-system/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/teaching/complex-system/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;This course offers an overview and basic understanding of complex dynamic phenomena in biological, physical and social systems. The focus is on biological systems but with a comparative perspective that highlights universal principles across different domains.&lt;/p&gt;
+&lt;p&gt;We will explore how simple interactions between components can give rise to emergent collective behavior, from flocking birds to neural networks, from genetic regulatory circuits to social movements. The course combines theoretical concepts with hands-on computational modeling exercises.&lt;/p&gt;
+&lt;h3 id=&#34;topics-covered&#34;&gt;Topics covered:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to complexity science and systems thinking&lt;/li&gt;
+&lt;li&gt;Network theory and its applications in biology&lt;/li&gt;
+&lt;li&gt;Dynamical systems and nonlinear dynamics&lt;/li&gt;
+&lt;li&gt;Emergence and self-organization&lt;/li&gt;
+&lt;li&gt;Critical phenomena and phase transitions&lt;/li&gt;
+&lt;li&gt;Evolutionary dynamics and game theory&lt;/li&gt;
+&lt;li&gt;Social dynamics and collective behavior&lt;/li&gt;
+&lt;li&gt;Computational modeling techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;learning-objectives&#34;&gt;Learning objectives:&lt;/h3&gt;
+&lt;p&gt;By the end of this course, students will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand fundamental concepts of complexity science&lt;/li&gt;
+&lt;li&gt;Identify complex systems patterns across different domains&lt;/li&gt;
+&lt;li&gt;Apply basic mathematical and computational tools to model complex systems&lt;/li&gt;
+&lt;li&gt;Critically evaluate complex systems research literature&lt;/li&gt;
+&lt;li&gt;Design and conduct simple complex systems experiments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;assessment&#34;&gt;Assessment:&lt;/h3&gt;
+&lt;p&gt;The course assessment consists of three components:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Presentation (30%)&lt;/strong&gt;: Students will present on a specific complex systems topic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Written exam (50%)&lt;/strong&gt;: Comprehensive exam covering theoretical concepts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Participation (20%)&lt;/strong&gt;: Active participation in class discussions and exercises&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic mathematics (calculus, linear algebra)&lt;/li&gt;
+&lt;li&gt;Some experience with programming (Python or R preferred)&lt;/li&gt;
+&lt;li&gt;Interest in interdisciplinary approaches to science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;recommended-reading&#34;&gt;Recommended reading:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bar-Yam, Y. (2003). Dynamics of Complex Systems. Perseus Books.&lt;/li&gt;
+&lt;li&gt;Mitchell, M. (2009). Complexity: A Guided Tour. Oxford University Press.&lt;/li&gt;
+&lt;li&gt;Strogatz, S. (2014). Nonlinear Dynamics and Chaos. Westview Press.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Introduction to Computational Social Sciences</title>
       <link>https://css-synosys.github.io/teaching/intro_css/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
@@ -90,33 +141,33 @@
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/teaching/methods_css/</guid>
       <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48847978502/CourseNode/1743388566773105003/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Time (Lecture)  Mondays, 3. DS and 5. DS&lt;/p&gt;
-&lt;p&gt;Location  APB/E001&lt;/p&gt;
-&lt;p&gt;Department   Computer Science&lt;/p&gt;
-&lt;p&gt;Modules   INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
-&lt;p&gt;Language  English&lt;/p&gt;
-&lt;p&gt;Assessment  oral exam&lt;/p&gt;
+&lt;p&gt;Time (Lecture) Mondays, 3. DS and 5. DS&lt;/p&gt;
+&lt;p&gt;Location APB/E001&lt;/p&gt;
+&lt;p&gt;Department Computer Science&lt;/p&gt;
+&lt;p&gt;Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
+&lt;p&gt;Language English&lt;/p&gt;
+&lt;p&gt;Assessment oral exam&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
 &lt;p&gt;The lecture will introduce you to social science research questions and findings, while the exercise will give you the practical skills to answer social questions yourself using computational tools. The first part focuses on basic techniques of text analysis. We will learn how to collect text data from sources such as newspapers, parliamentary minutes or social media, and how to pre-process it for natural language processing (NLP), such as sentiment analysis.&lt;/p&gt;
 &lt;p&gt;We will then move on to analyzing the structural factors of online data, from time series to networks and their dynamics. We will also explore how to collect such data from social media and how to conduct online field experiments. We will then have the tools to move on to applied research questions, covering topics such as political polarization, misinformation, public health and human mobility. We will learn what conclusions can and cannot be drawn from these descriptions. Finally, we will go beyond description and learn about causality, simulation models of social systems that allow mechanistic understanding.&lt;/p&gt;
 &lt;p&gt;The last part of the course will focus on NLP again, this time with a focus on deep learning methods such as Large Language Models (LLMs). We will use transformer models to identify complex patterns in the communication of German parties on social media.&lt;/p&gt;
 &lt;p&gt;In summary, this course will provide a toolbox for describing different types of social systems with a focus on textual data, as well as a family of modelling approaches that can go beyond individual-level statistics to describe collective processes.&lt;/p&gt;
 &lt;h3 id=&#34;schedule&#34;&gt;Schedule:&lt;/h3&gt;
-&lt;p&gt;Week 1      What is Computational Social Science?&lt;/p&gt;
-&lt;p&gt;Week 2      Data, types, sources and preparation in R/Python&lt;/p&gt;
-&lt;p&gt;Week 3      Collecting text data&lt;/p&gt;
-&lt;p&gt;Week 4      Identifying sentiment and clusters&lt;/p&gt;
-&lt;p&gt;Week 5      Time series analysis&lt;/p&gt;
-&lt;p&gt;Week 6      Regressions and statistical modeling&lt;/p&gt;
-&lt;p&gt;Week 7      Network science 1&lt;/p&gt;
-&lt;p&gt;Week 8      Network science 2&lt;/p&gt;
-&lt;p&gt;Week 9      Causal inference in observational data&lt;/p&gt;
-&lt;p&gt;Break   June 8 - 15&lt;/p&gt;
-&lt;p&gt;Week 10       Agent-based-models&lt;/p&gt;
-&lt;p&gt;Week 11       Topic Modeling with Transformers 1&lt;/p&gt;
-&lt;p&gt;Week 12       Topic Modeling with Transformers 2&lt;/p&gt;
-&lt;p&gt;Week 13       LLMs&lt;/p&gt;
-&lt;p&gt;Week 14       Final session, feedback, Q&amp;amp;A, Discussion&lt;/p&gt;
+&lt;p&gt;Week 1 What is Computational Social Science?&lt;/p&gt;
+&lt;p&gt;Week 2 Data, types, sources and preparation in R/Python&lt;/p&gt;
+&lt;p&gt;Week 3 Collecting text data&lt;/p&gt;
+&lt;p&gt;Week 4 Identifying sentiment and clusters&lt;/p&gt;
+&lt;p&gt;Week 5 Time series analysis&lt;/p&gt;
+&lt;p&gt;Week 6 Regressions and statistical modeling&lt;/p&gt;
+&lt;p&gt;Week 7 Network science 1&lt;/p&gt;
+&lt;p&gt;Week 8 Network science 2&lt;/p&gt;
+&lt;p&gt;Week 9 Causal inference in observational data&lt;/p&gt;
+&lt;p&gt;Break June 8 - 15&lt;/p&gt;
+&lt;p&gt;Week 10 Agent-based-models&lt;/p&gt;
+&lt;p&gt;Week 11 Topic Modeling with Transformers 1&lt;/p&gt;
+&lt;p&gt;Week 12 Topic Modeling with Transformers 2&lt;/p&gt;
+&lt;p&gt;Week 13 LLMs&lt;/p&gt;
+&lt;p&gt;Week 14 Final session, feedback, Q&amp;amp;A, Discussion&lt;/p&gt;
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography:&lt;/h3&gt;
 &lt;p&gt;Llaudet, E., &amp;amp; Imai, K. (2022). Data analysis for social science: A friendly and practical introduction. Princeton University Press.&lt;/p&gt;
 &lt;p&gt;Albert-László Barabási (2015). Network Science. Cambridge University Press (also here: networksciencebook.com)&lt;/p&gt;

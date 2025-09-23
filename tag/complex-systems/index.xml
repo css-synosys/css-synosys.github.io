@@ -5,12 +5,125 @@
     <link>https://css-synosys.github.io/tag/complex-systems/</link>
       <atom:link href="https://css-synosys.github.io/tag/complex-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Complex Systems</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://css-synosys.github.io/media/logo_hu_8314fbf1d9759f2e.png</url>
       <title>Complex Systems</title>
       <link>https://css-synosys.github.io/tag/complex-systems/</link>
     </image>
+    
+    <item>
+      <title>Introduction to Complex Systems</title>
+      <link>https://css-synosys.github.io/teaching/complex-system/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/teaching/complex-system/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;This course offers an overview and basic understanding of complex dynamic phenomena in biological, physical and social systems. The focus is on biological systems but with a comparative perspective that highlights universal principles across different domains.&lt;/p&gt;
+&lt;p&gt;We will explore how simple interactions between components can give rise to emergent collective behavior, from flocking birds to neural networks, from genetic regulatory circuits to social movements. The course combines theoretical concepts with hands-on computational modeling exercises.&lt;/p&gt;
+&lt;h3 id=&#34;topics-covered&#34;&gt;Topics covered:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to complexity science and systems thinking&lt;/li&gt;
+&lt;li&gt;Network theory and its applications in biology&lt;/li&gt;
+&lt;li&gt;Dynamical systems and nonlinear dynamics&lt;/li&gt;
+&lt;li&gt;Emergence and self-organization&lt;/li&gt;
+&lt;li&gt;Critical phenomena and phase transitions&lt;/li&gt;
+&lt;li&gt;Evolutionary dynamics and game theory&lt;/li&gt;
+&lt;li&gt;Social dynamics and collective behavior&lt;/li&gt;
+&lt;li&gt;Computational modeling techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;learning-objectives&#34;&gt;Learning objectives:&lt;/h3&gt;
+&lt;p&gt;By the end of this course, students will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand fundamental concepts of complexity science&lt;/li&gt;
+&lt;li&gt;Identify complex systems patterns across different domains&lt;/li&gt;
+&lt;li&gt;Apply basic mathematical and computational tools to model complex systems&lt;/li&gt;
+&lt;li&gt;Critically evaluate complex systems research literature&lt;/li&gt;
+&lt;li&gt;Design and conduct simple complex systems experiments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;assessment&#34;&gt;Assessment:&lt;/h3&gt;
+&lt;p&gt;The course assessment consists of three components:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Presentation (30%)&lt;/strong&gt;: Students will present on a specific complex systems topic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Written exam (50%)&lt;/strong&gt;: Comprehensive exam covering theoretical concepts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Participation (20%)&lt;/strong&gt;: Active participation in class discussions and exercises&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic mathematics (calculus, linear algebra)&lt;/li&gt;
+&lt;li&gt;Some experience with programming (Python or R preferred)&lt;/li&gt;
+&lt;li&gt;Interest in interdisciplinary approaches to science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;recommended-reading&#34;&gt;Recommended reading:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bar-Yam, Y. (2003). Dynamics of Complex Systems. Perseus Books.&lt;/li&gt;
+&lt;li&gt;Mitchell, M. (2009). Complexity: A Guided Tour. Oxford University Press.&lt;/li&gt;
+&lt;li&gt;Strogatz, S. (2014). Nonlinear Dynamics and Chaos. Westview Press.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Complex Systems in Biology (and Beyond)</title>
+      <link>https://css-synosys.github.io/teaching/complex_system_biology/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/teaching/complex_system_biology/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;This course offers an overview and basic understanding of complex dynamic phenomena in biological, physical and social systems. The focus is on biological systems but with a comparative perspective that reveals the universal principles underlying complex behavior across different domains.&lt;/p&gt;
+&lt;p&gt;Students will learn to think about biological systems as complex adaptive systems, where interactions between molecules, cells, or organisms give rise to emergent properties that cannot be understood from studying individual components in isolation.&lt;/p&gt;
+&lt;h3 id=&#34;course-structure&#34;&gt;Course Structure:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Part I: Foundations of Complexity&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What makes a system complex?&lt;/li&gt;
+&lt;li&gt;Networks and connectivity patterns&lt;/li&gt;
+&lt;li&gt;Dynamical systems in biology&lt;/li&gt;
+&lt;li&gt;Emergence and self-organization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part II: Biological Applications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gene regulatory networks&lt;/li&gt;
+&lt;li&gt;Metabolic networks&lt;/li&gt;
+&lt;li&gt;Neural networks and brain dynamics&lt;/li&gt;
+&lt;li&gt;Ecological networks and food webs&lt;/li&gt;
+&lt;li&gt;Evolution as a complex process&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part III: Comparative Perspectives&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Social systems as complex adaptive systems&lt;/li&gt;
+&lt;li&gt;Physical systems and universality&lt;/li&gt;
+&lt;li&gt;Common patterns across domains&lt;/li&gt;
+&lt;li&gt;Modeling approaches and tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;practical-components&#34;&gt;Practical Components:&lt;/h3&gt;
+&lt;p&gt;The course includes hands-on exercises using:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Network analysis tools&lt;/li&gt;
+&lt;li&gt;Computational modeling (agent-based models, differential equations)&lt;/li&gt;
+&lt;li&gt;Data analysis of real biological datasets&lt;/li&gt;
+&lt;li&gt;Case studies from current research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;assessment-components&#34;&gt;Assessment Components:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Presentation (40%)&lt;/strong&gt;: Research presentation on a selected complex biological system&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Written Exam (60%)&lt;/strong&gt;: Theoretical knowledge and problem-solving&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic biology background (cell biology, genetics, ecology)&lt;/li&gt;
+&lt;li&gt;Mathematical foundations (calculus, basic statistics)&lt;/li&gt;
+&lt;li&gt;Some programming experience helpful but not required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;target-audience&#34;&gt;Target Audience:&lt;/h3&gt;
+&lt;p&gt;This course is designed for students in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Biology and life sciences&lt;/li&gt;
+&lt;li&gt;Bioinformatics and computational biology&lt;/li&gt;
+&lt;li&gt;Physics with biological interests&lt;/li&gt;
+&lt;li&gt;Systems science and related fields&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Real-time assessment of motives for sharing and creating content among highly active Twitter users</title>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Systems | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/tag/social-systems/</link>
+      <atom:link href="https://css-synosys.github.io/tag/social-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Systems</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_hu_8314fbf1d9759f2e.png</url>
+      <title>Social Systems</title>
+      <link>https://css-synosys.github.io/tag/social-systems/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Complex Systems</title>
+      <link>https://css-synosys.github.io/teaching/complex-system/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/teaching/complex-system/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;This course offers an overview and basic understanding of complex dynamic phenomena in biological, physical and social systems. The focus is on biological systems but with a comparative perspective that highlights universal principles across different domains.&lt;/p&gt;
+&lt;p&gt;We will explore how simple interactions between components can give rise to emergent collective behavior, from flocking birds to neural networks, from genetic regulatory circuits to social movements. The course combines theoretical concepts with hands-on computational modeling exercises.&lt;/p&gt;
+&lt;h3 id=&#34;topics-covered&#34;&gt;Topics covered:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to complexity science and systems thinking&lt;/li&gt;
+&lt;li&gt;Network theory and its applications in biology&lt;/li&gt;
+&lt;li&gt;Dynamical systems and nonlinear dynamics&lt;/li&gt;
+&lt;li&gt;Emergence and self-organization&lt;/li&gt;
+&lt;li&gt;Critical phenomena and phase transitions&lt;/li&gt;
+&lt;li&gt;Evolutionary dynamics and game theory&lt;/li&gt;
+&lt;li&gt;Social dynamics and collective behavior&lt;/li&gt;
+&lt;li&gt;Computational modeling techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;learning-objectives&#34;&gt;Learning objectives:&lt;/h3&gt;
+&lt;p&gt;By the end of this course, students will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand fundamental concepts of complexity science&lt;/li&gt;
+&lt;li&gt;Identify complex systems patterns across different domains&lt;/li&gt;
+&lt;li&gt;Apply basic mathematical and computational tools to model complex systems&lt;/li&gt;
+&lt;li&gt;Critically evaluate complex systems research literature&lt;/li&gt;
+&lt;li&gt;Design and conduct simple complex systems experiments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;assessment&#34;&gt;Assessment:&lt;/h3&gt;
+&lt;p&gt;The course assessment consists of three components:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Presentation (30%)&lt;/strong&gt;: Students will present on a specific complex systems topic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Written exam (50%)&lt;/strong&gt;: Comprehensive exam covering theoretical concepts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Participation (20%)&lt;/strong&gt;: Active participation in class discussions and exercises&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic mathematics (calculus, linear algebra)&lt;/li&gt;
+&lt;li&gt;Some experience with programming (Python or R preferred)&lt;/li&gt;
+&lt;li&gt;Interest in interdisciplinary approaches to science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;recommended-reading&#34;&gt;Recommended reading:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bar-Yam, Y. (2003). Dynamics of Complex Systems. Perseus Books.&lt;/li&gt;
+&lt;li&gt;Mitchell, M. (2009). Complexity: A Guided Tour. Oxford University Press.&lt;/li&gt;
+&lt;li&gt;Strogatz, S. (2014). Nonlinear Dynamics and Chaos. Westview Press.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
