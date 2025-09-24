@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political Representation | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/tag/political-representation/</link>
+      <atom:link href="https://css-synosys.github.io/tag/political-representation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Political Representation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_hu_8314fbf1d9759f2e.png</url>
+      <title>Political Representation</title>
+      <link>https://css-synosys.github.io/tag/political-representation/</link>
+    </image>
+    
+    <item>
+      <title>Political Representation on Social Media</title>
+      <link>https://css-synosys.github.io/project/nlp/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/project/nlp/</guid>
+      <description>&lt;p&gt;Who do politicians represent on social media, and how? It is evident that no single party represents the entire population. Conservative parties often align with traditional middle- to upper-class families, while social democratic parties historically represent the working class. Yet, if certain social groups are excluded from representation altogether, this constitutes a democratic deficit.&lt;/p&gt;
+&lt;p&gt;Our research examines two complementary dimensions of political representation: policy responsiveness and group appeal. In other words, to what extent do politicians respond to the policy preferences of specific social groups, and which groups do they explicitly address? We investigate these questions through the social media communication of members of parliament across multiple Western countries. Because social media lacks the gatekeeping function of traditional media, it allows politicians to communicate more freely and frequently, creating a unique opportunity for researchers to study political communication at greater scale and granularity.&lt;/p&gt;
+&lt;p&gt;By combining the perspectives of responsiveness and appeal, our research addresses core pillars of representative democracy in the digital age. Do parties primarily respond to citizens or to rival parties? When politicians appeal to certain groups, do they do so by drawing boundaries against an out-group or by advancing policies in their in-group’s interest? And if it is the latter, do politicians actually understand the policy preferences of the groups they seek to represent?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

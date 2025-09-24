@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Is public broadcasting an amplifier or a gatekeeper of misinformation?</title>
+      <title>New paper: Is public broadcasting an amplifier or a gatekeeper of misinformation?</title>
       <link>https://css-synosys.github.io/post/public_broadcasting_misinformation/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/post/public_broadcasting_misinformation/</guid>
@@ -179,13 +179,13 @@ What can we conclude from this about the influence of Elon Musk on the reach of 
     </item>
     
     <item>
-      <title>Text as Data</title>
+      <title>Political Representation on Social Media</title>
       <link>https://css-synosys.github.io/project/nlp/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/project/nlp/</guid>
-      <description>&lt;p&gt;Big data and computational power are growing fast, and it&amp;rsquo;s not just the big tech companies making use of it. Social sciences are also benefiting from these advances. Natural Language Processing (NLP) has come a long way, and now researchers can analyze text data in ways that were impossible just a few decades ago. Social media posts, transcripts of political debates, and parliamentary speeches are now valuable data sources for studying human behavior, political discourse, and societal trends. This opens up a bunch of new questions and gives us new ways to study them.&lt;/p&gt;
-&lt;p&gt;Our “Text-as-Data” project uses NLP methods to analyze how politicians communicate across social media and other channels. We investigate the dynamics of disinformation, examining how false or misleading information spreads and evolves within political communication. Understanding these patterns is crucial in an age of eroding trust in democratic institutions and polarized societies. We also study how different groups of citizens are addressed, shedding light on patterns of political inequality in messaging. This is important for assessing whether political communication reflects or exacerbates existing social divides, and for ensuring that all voices are equally valued in public discourse. Additionally, we analyze whether there has been an ideological shift in political discourse in recent years, helping us understand how political narratives adapt to societal changes and shape public opinion. By addressing these challenges, our research aims to contribute to a deeper understanding of contemporary political dynamics and the role of communication in shaping democracy.&lt;/p&gt;
-&lt;p&gt;To answer these questions, we are creating new methods to combine data from different sources. This lets us find connections and trends across different types of communication. This approach helps us understand political communication better. It also gives us new tools and frameworks for analyzing complex social phenomena.&lt;/p&gt;
+      <description>&lt;p&gt;Who do politicians represent on social media, and how? It is evident that no single party represents the entire population. Conservative parties often align with traditional middle- to upper-class families, while social democratic parties historically represent the working class. Yet, if certain social groups are excluded from representation altogether, this constitutes a democratic deficit.&lt;/p&gt;
+&lt;p&gt;Our research examines two complementary dimensions of political representation: policy responsiveness and group appeal. In other words, to what extent do politicians respond to the policy preferences of specific social groups, and which groups do they explicitly address? We investigate these questions through the social media communication of members of parliament across multiple Western countries. Because social media lacks the gatekeeping function of traditional media, it allows politicians to communicate more freely and frequently, creating a unique opportunity for researchers to study political communication at greater scale and granularity.&lt;/p&gt;
+&lt;p&gt;By combining the perspectives of responsiveness and appeal, our research addresses core pillars of representative democracy in the digital age. Do parties primarily respond to citizens or to rival parties? When politicians appeal to certain groups, do they do so by drawing boundaries against an out-group or by advancing policies in their in-group’s interest? And if it is the latter, do politicians actually understand the policy preferences of the groups they seek to represent?&lt;/p&gt;
 </description>
     </item>
     
