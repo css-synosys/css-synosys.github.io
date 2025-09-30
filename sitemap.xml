@@ -15,7 +15,31 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/authors/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tag/computational-social-science/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/teaching/intro_css_26/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/philipp/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/philipp-lorenz-spreen/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tag/seminar/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tags/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/decision-making/</loc>
@@ -62,10 +86,6 @@
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/tags/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/tag/uncertainty/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -91,14 +111,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/digital-platforms/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/author/philipp/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/author/philipp-lorenz-spreen/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -186,26 +198,6 @@
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/tag/biology/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/tag/complex-systems/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/tag/computational-social-science/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/teaching/complex-system/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/teaching/complex_system_biology/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/teaching/intro_css/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -222,31 +214,11 @@
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/tag/networks/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/tag/nlp/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/tag/physics/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/tag/seminar/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/tag/social-systems/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/tag/statistics/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/tag/systems-biology/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -351,6 +323,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/author/b-swire-thompson/</loc>
+    <lastmod>2024-01-30T17:31:07+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tag/complex-systems/</loc>
     <lastmod>2024-01-30T17:31:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

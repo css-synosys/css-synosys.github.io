@@ -50,69 +50,7 @@ Our colleague &lt;strong&gt;Kamil Fulawka&lt;/strong&gt; is the first author of 
     </item>
     
     <item>
-      <title>Introduction to Complex Systems in Biology (and Beyond)</title>
-      <link>https://css-synosys.github.io/teaching/complex_system_biology/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/teaching/complex_system_biology/</guid>
-      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
-&lt;p&gt;This course offers an overview and basic understanding of complex dynamic phenomena in biological, physical and social systems. The focus is on biological systems but with a comparative perspective that reveals the universal principles underlying complex behavior across different domains.&lt;/p&gt;
-&lt;p&gt;Students will learn to think about biological systems as complex adaptive systems, where interactions between molecules, cells, or organisms give rise to emergent properties that cannot be understood from studying individual components in isolation.&lt;/p&gt;
-&lt;h3 id=&#34;course-structure&#34;&gt;Course Structure:&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Part I: Foundations of Complexity&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;What makes a system complex?&lt;/li&gt;
-&lt;li&gt;Networks and connectivity patterns&lt;/li&gt;
-&lt;li&gt;Dynamical systems in biology&lt;/li&gt;
-&lt;li&gt;Emergence and self-organization&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Part II: Biological Applications&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Gene regulatory networks&lt;/li&gt;
-&lt;li&gt;Metabolic networks&lt;/li&gt;
-&lt;li&gt;Neural networks and brain dynamics&lt;/li&gt;
-&lt;li&gt;Ecological networks and food webs&lt;/li&gt;
-&lt;li&gt;Evolution as a complex process&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Part III: Comparative Perspectives&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Social systems as complex adaptive systems&lt;/li&gt;
-&lt;li&gt;Physical systems and universality&lt;/li&gt;
-&lt;li&gt;Common patterns across domains&lt;/li&gt;
-&lt;li&gt;Modeling approaches and tools&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;practical-components&#34;&gt;Practical Components:&lt;/h3&gt;
-&lt;p&gt;The course includes hands-on exercises using:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Network analysis tools&lt;/li&gt;
-&lt;li&gt;Computational modeling (agent-based models, differential equations)&lt;/li&gt;
-&lt;li&gt;Data analysis of real biological datasets&lt;/li&gt;
-&lt;li&gt;Case studies from current research&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;assessment-components&#34;&gt;Assessment Components:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Presentation (40%)&lt;/strong&gt;: Research presentation on a selected complex biological system&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Written Exam (60%)&lt;/strong&gt;: Theoretical knowledge and problem-solving&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Basic biology background (cell biology, genetics, ecology)&lt;/li&gt;
-&lt;li&gt;Mathematical foundations (calculus, basic statistics)&lt;/li&gt;
-&lt;li&gt;Some programming experience helpful but not required&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;target-audience&#34;&gt;Target Audience:&lt;/h3&gt;
-&lt;p&gt;This course is designed for students in:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Biology and life sciences&lt;/li&gt;
-&lt;li&gt;Bioinformatics and computational biology&lt;/li&gt;
-&lt;li&gt;Physics with biological interests&lt;/li&gt;
-&lt;li&gt;Systems science and related fields&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Statistical Modeling for Online Behavior Data</title>
+      <title>Introduction to Statistical Modeling for Online Behavior Data (SoSe 2025)</title>
       <link>https://css-synosys.github.io/teaching/stats_model/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/teaching/stats_model/</guid>
