@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ralph Hertwig | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/author/ralph-hertwig/</link>
+      <atom:link href="https://css-synosys.github.io/author/ralph-hertwig/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ralph Hertwig</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_hu_8314fbf1d9759f2e.png</url>
+      <title>Ralph Hertwig</title>
+      <link>https://css-synosys.github.io/author/ralph-hertwig/</link>
+    </image>
+    
+    <item>
+      <title>Large language models accurately identify decision reasons in verbal reports</title>
+      <link>https://css-synosys.github.io/publication/kamil-2025-llms/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/publication/kamil-2025-llms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Decision-Making | CSS-Synosys</title>
+    <title>Decision Making | CSS-Synosys</title>
     <link>https://css-synosys.github.io/tag/decision-making/</link>
       <atom:link href="https://css-synosys.github.io/tag/decision-making/index.xml" rel="self" type="application/rss+xml" />
-    <description>Decision-Making</description>
+    <description>Decision Making</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://css-synosys.github.io/media/logo_hu_8314fbf1d9759f2e.png</url>
-      <title>Decision-Making</title>
+      <title>Decision Making</title>
       <link>https://css-synosys.github.io/tag/decision-making/</link>
     </image>
     
@@ -25,6 +25,14 @@ Kamil Fuławka from our Computational Social Science group, together with collea
 &lt;p&gt;This finding is important because it suggests that self-reported intolerance of uncertainty and observable decision-making behavior may capture different aspects of the phenomenon. The study points to the need for more precise definitions of IU and for experimental designs that can create stronger affective contexts, possibly with real consequences for behavior.&lt;/p&gt;
 &lt;p&gt;👉 &lt;a href=&#34;https://cpsyjournal.org/articles/10.5334/cpsy.140&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full article here&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Decomposing Intolerance of Uncertainty: No Association With Affective Decision Making in a Community Sample</title>
+      <link>https://css-synosys.github.io/publication/kamil-2025-decomposing/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/publication/kamil-2025-decomposing/</guid>
+      <description></description>
     </item>
     
     <item>
