@@ -5,12 +5,32 @@
     <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
       <atom:link href="https://css-synosys.github.io/author/kamil-fu%C5%82awka/index.xml" rel="self" type="application/rss+xml" />
     <description>Kamil Fuławka</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://css-synosys.github.io/author/kamil-fu%C5%82awka/avatar_hu_30334330dd6970db.jpg</url>
       <title>Kamil Fuławka</title>
       <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
     </image>
+    
+    <item>
+      <title>Kamil Fuławka</title>
+      <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</guid>
+      <description>&lt;p&gt;Kamil is a postdoc in the junior research group &amp;ldquo;Computational Social Science.&amp;rdquo; Trained as a psychologist, he specializes in understanding how individuals make decisions under risk and uncertainty. His core research interests focus on the (dis)adaptive roles of emotions and heuristics in decision-making and the dynamics of the decision-making process itself. Kamil’s research motivation is fueled by challenges in health-related decisions, such as vaccine hesitancy and food choices, and the impact of contemporary affective (emotional) propaganda on political preferences. His work integrates various methods, including computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports with large language models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preprint on text-level Misinformation on Social Media</title>
+      <link>https://css-synosys.github.io/post/rac_misinfo_detection/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/post/rac_misinfo_detection/</guid>
+      <description>&lt;p&gt;In a new preprint, Sami Nenno together with Kamil Fuławka and Philipp Lorenz-Spreen from our team and Cornelius Puschmann from the University of Bremen use a new text-based method to detect misinformation on social media. The study analyzes more than half a million posts from all German members of parliament and their official party accounts across Facebook, X, Instagram, and TikTok. Using a novel text-matching approach, the researchers link posts to over 5,000 fact-checking articles and 1,500 community notes. Compared to other methods, they identify ten times as many posts that contain misinformation.&lt;/p&gt;
+&lt;p&gt;Their findings show that misinformation remains relatively rare overall but is not evenly distributed. Instead, it clusters around certain parties and topics — in some contexts reaching misinformation rates of about ten percent. By going beyond link-based detection, this approach broadens the scope of misinformation research, providing a more detailed view of where and by whom misinformation is spread, and highlighting the central role of certain parties in its circulation.&lt;/p&gt;
+&lt;p&gt;Find the full preprint here: &lt;a href=&#34;https://osf.io/preprints/socarxiv/p6yh9_v1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/preprints/socarxiv/p6yh9_v1/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How people say they feel about uncertainty does not match how they decide</title>
@@ -28,12 +48,11 @@ Kamil Fuławka from our Computational Social Science group, together with collea
     </item>
     
     <item>
-      <title>Kamil Fuławka</title>
-      <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</guid>
-      <description>&lt;p&gt;Kamil is a postdoc in the junior research group &amp;ldquo;Computational Social Science.&amp;rdquo; Trained as a psychologist, he specializes in understanding how individuals make decisions under risk and uncertainty. His core research interests focus on the (dis)adaptive roles of emotions and heuristics in decision-making and the dynamics of the decision-making process itself. Kamil’s research motivation is fueled by challenges in health-related decisions, such as vaccine hesitancy and food choices, and the impact of contemporary affective (emotional) propaganda on political preferences. His work integrates various methods, including computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports with large language models.&lt;/p&gt;
-</description>
+      <title>Decomposing Intolerance of Uncertainty: No Association With Affective Decision Making in a Community Sample</title>
+      <link>https://css-synosys.github.io/publication/kamil-2025-decomposing/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/publication/kamil-2025-decomposing/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -41,14 +60,6 @@ Kamil Fuławka from our Computational Social Science group, together with collea
       <link>https://css-synosys.github.io/publication/kamil-2025-llms/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/publication/kamil-2025-llms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decomposing Intolerance of Uncertainty: No Association With Affective Decision Making in a Community Sample</title>
-      <link>https://css-synosys.github.io/publication/kamil-2025-decomposing/</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/publication/kamil-2025-decomposing/</guid>
       <description></description>
     </item>
     

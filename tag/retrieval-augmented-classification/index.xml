@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retrieval-Augmented Classification | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/tag/retrieval-augmented-classification/</link>
+      <atom:link href="https://css-synosys.github.io/tag/retrieval-augmented-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Retrieval-Augmented Classification</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_hu_8314fbf1d9759f2e.png</url>
+      <title>Retrieval-Augmented Classification</title>
+      <link>https://css-synosys.github.io/tag/retrieval-augmented-classification/</link>
+    </image>
+    
+    <item>
+      <title>Preprint on text-level Misinformation on Social Media</title>
+      <link>https://css-synosys.github.io/post/rac_misinfo_detection/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/post/rac_misinfo_detection/</guid>
+      <description>&lt;p&gt;In a new preprint, Sami Nenno together with Kamil Fuławka and Philipp Lorenz-Spreen from our team and Cornelius Puschmann from the University of Bremen use a new text-based method to detect misinformation on social media. The study analyzes more than half a million posts from all German members of parliament and their official party accounts across Facebook, X, Instagram, and TikTok. Using a novel text-matching approach, the researchers link posts to over 5,000 fact-checking articles and 1,500 community notes. Compared to other methods, they identify ten times as many posts that contain misinformation.&lt;/p&gt;
+&lt;p&gt;Their findings show that misinformation remains relatively rare overall but is not evenly distributed. Instead, it clusters around certain parties and topics — in some contexts reaching misinformation rates of about ten percent. By going beyond link-based detection, this approach broadens the scope of misinformation research, providing a more detailed view of where and by whom misinformation is spread, and highlighting the central role of certain parties in its circulation.&lt;/p&gt;
+&lt;p&gt;Find the full preprint here: &lt;a href=&#34;https://osf.io/preprints/socarxiv/p6yh9_v1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/preprints/socarxiv/p6yh9_v1/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

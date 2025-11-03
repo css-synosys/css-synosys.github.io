@@ -5,12 +5,32 @@
     <link>https://css-synosys.github.io/author/sami-nenno/</link>
       <atom:link href="https://css-synosys.github.io/author/sami-nenno/index.xml" rel="self" type="application/rss+xml" />
     <description>Sami Nenno</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://css-synosys.github.io/author/sami-nenno/avatar_hu_cac2d06eb2fff616.png</url>
       <title>Sami Nenno</title>
       <link>https://css-synosys.github.io/author/sami-nenno/</link>
     </image>
+    
+    <item>
+      <title>Preprint on text-level Misinformation on Social Media</title>
+      <link>https://css-synosys.github.io/post/rac_misinfo_detection/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/post/rac_misinfo_detection/</guid>
+      <description>&lt;p&gt;In a new preprint, Sami Nenno together with Kamil Fuławka and Philipp Lorenz-Spreen from our team and Cornelius Puschmann from the University of Bremen use a new text-based method to detect misinformation on social media. The study analyzes more than half a million posts from all German members of parliament and their official party accounts across Facebook, X, Instagram, and TikTok. Using a novel text-matching approach, the researchers link posts to over 5,000 fact-checking articles and 1,500 community notes. Compared to other methods, they identify ten times as many posts that contain misinformation.&lt;/p&gt;
+&lt;p&gt;Their findings show that misinformation remains relatively rare overall but is not evenly distributed. Instead, it clusters around certain parties and topics — in some contexts reaching misinformation rates of about ten percent. By going beyond link-based detection, this approach broadens the scope of misinformation research, providing a more detailed view of where and by whom misinformation is spread, and highlighting the central role of certain parties in its circulation.&lt;/p&gt;
+&lt;p&gt;Find the full preprint here: &lt;a href=&#34;https://osf.io/preprints/socarxiv/p6yh9_v1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/preprints/socarxiv/p6yh9_v1/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sami Nenno</title>
+      <link>https://css-synosys.github.io/author/sami-nenno/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/sami-nenno/</guid>
+      <description>&lt;p&gt;Sami is a postdoc in the junior research group “Computational Social Science”. His degrees are in Data Science and Philosophy, and Communication Science. Sami is interested in quantitative research and machine learning and combining ideas from different disciplines. He has done research on different topics, including disinformation, software applications for journalists, and methods to document and reduce the electricity usage of machine learning models. In his role in the computational social science unit, he is developing NLP and computer vision methods to analyze data from (social) media platforms and other sources.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New paper: Is public broadcasting an amplifier or a gatekeeper of misinformation?</title>
@@ -22,15 +42,6 @@ Sami Nenno’s article addressing this question was published in &lt;em&gt;Infor
 &lt;p&gt;Such claims are most often made by politicians. While they are sometimes challenged by moderators or other guests, in many cases they remain unaddressed. The misinformation ranges from narratives about migration “pull factors” to climate policy. However, the study finds no evidence that viral online misinformation is being transmitted on television. This suggests that although gatekeeping frequently fails, public broadcasting does not serve as an amplifier either. Instead, two distinct forms emerge: online misinformation, which is often outlandish and unrelated to current public discourse, and misinformation tied to high-profile political events that circulates both online and in traditional media.&lt;/p&gt;
 &lt;p&gt;The study underscores the need to broaden the scope of misinformation research and highlights the difficulty journalists face in countering false claims, particularly in live, contentious debates.&lt;/p&gt;
 &lt;p&gt;👉 &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2561030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full article here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sami Nenno</title>
-      <link>https://css-synosys.github.io/author/sami-nenno/</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/author/sami-nenno/</guid>
-      <description>&lt;p&gt;Sami is a postdoc in the junior research group “Computational Social Science”. His degrees are in Data Science and Philosophy, and Communication Science. Sami is interested in quantitative research and machine learning and combining ideas from different disciplines. He has done research on different topics, including disinformation, software applications for journalists, and methods to document and reduce the electricity usage of machine learning models. In his role in the computational social science unit, he is developing NLP and computer vision methods to analyze data from (social) media platforms and other sources.&lt;/p&gt;
 </description>
     </item>
     

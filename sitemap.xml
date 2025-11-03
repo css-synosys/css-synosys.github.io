@@ -15,7 +15,59 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/authors/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tag/german-politics/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/post/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tag/llms/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tag/misinformation/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/philipp/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/philipp-lorenz-spreen/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tag/political-communication/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/post/rac_misinfo_detection/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tag/retrieval-augmented-classification/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/sami-nenno/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tag/social-media/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/tags/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/computational-social-science/</loc>
@@ -26,19 +78,7 @@
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/author/philipp/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/author/philipp-lorenz-spreen/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/tag/seminar/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/tags/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,19 +94,7 @@
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/post/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/tag/media/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/tag/misinformation/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -82,10 +110,6 @@
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/author/sami-nenno/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/tag/uncertainty/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,15 +118,19 @@
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://css-synosys.github.io/author/anya-pedersen/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/publication/kamil-2025-decomposing/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://css-synosys.github.io/author/dirk-wulff/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/publication/kamil-2025-llms/</loc>
-    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/tag/llms/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -118,16 +146,8 @@
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/author/anya-pedersen/</loc>
-    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/publication/kamil-2025-decomposing/</loc>
-    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/author/yannik-paul/</loc>
-    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/large-language-models/</loc>
@@ -227,10 +247,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/replication/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/tag/social-media/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -360,6 +376,10 @@
   </url><url>
     <loc>https://css-synosys.github.io/post/misinformation/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/publication-type/3/</loc>
+    <lastmod>2024-01-30T17:31:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/author/a-kozyreva/</loc>
@@ -511,10 +531,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/author/u-k.-h.-ecker/</loc>
-    <lastmod>2024-01-30T17:31:07+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/publication-type/3/</loc>
     <lastmod>2024-01-30T17:31:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

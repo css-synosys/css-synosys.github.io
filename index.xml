@@ -43,6 +43,17 @@
     </item>
     
     <item>
+      <title>Preprint on text-level Misinformation on Social Media</title>
+      <link>https://css-synosys.github.io/post/rac_misinfo_detection/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/post/rac_misinfo_detection/</guid>
+      <description>&lt;p&gt;In a new preprint, Sami Nenno together with Kamil Fuławka and Philipp Lorenz-Spreen from our team and Cornelius Puschmann from the University of Bremen use a new text-based method to detect misinformation on social media. The study analyzes more than half a million posts from all German members of parliament and their official party accounts across Facebook, X, Instagram, and TikTok. Using a novel text-matching approach, the researchers link posts to over 5,000 fact-checking articles and 1,500 community notes. Compared to other methods, they identify ten times as many posts that contain misinformation.&lt;/p&gt;
+&lt;p&gt;Their findings show that misinformation remains relatively rare overall but is not evenly distributed. Instead, it clusters around certain parties and topics — in some contexts reaching misinformation rates of about ten percent. By going beyond link-based detection, this approach broadens the scope of misinformation research, providing a more detailed view of where and by whom misinformation is spread, and highlighting the central role of certain parties in its circulation.&lt;/p&gt;
+&lt;p&gt;Find the full preprint here: &lt;a href=&#34;https://osf.io/preprints/socarxiv/p6yh9_v1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/preprints/socarxiv/p6yh9_v1/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Introduction to Computational Social Sciences (WiSe 25/26)</title>
       <link>https://css-synosys.github.io/teaching/intro_css_26/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
@@ -112,18 +123,18 @@ Sami Nenno’s article addressing this question was published in &lt;em&gt;Infor
     </item>
     
     <item>
-      <title>Large language models accurately identify decision reasons in verbal reports</title>
-      <link>https://css-synosys.github.io/publication/kamil-2025-llms/</link>
+      <title>Decomposing Intolerance of Uncertainty: No Association With Affective Decision Making in a Community Sample</title>
+      <link>https://css-synosys.github.io/publication/kamil-2025-decomposing/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/publication/kamil-2025-llms/</guid>
+      <guid>https://css-synosys.github.io/publication/kamil-2025-decomposing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Decomposing Intolerance of Uncertainty: No Association With Affective Decision Making in a Community Sample</title>
-      <link>https://css-synosys.github.io/publication/kamil-2025-decomposing/</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/publication/kamil-2025-decomposing/</guid>
+      <title>Large language models accurately identify decision reasons in verbal reports</title>
+      <link>https://css-synosys.github.io/publication/kamil-2025-llms/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/publication/kamil-2025-llms/</guid>
       <description></description>
     </item>
     
