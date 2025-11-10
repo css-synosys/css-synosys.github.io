@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Field Experiment | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/tag/field-experiment/</link>
+      <atom:link href="https://css-synosys.github.io/tag/field-experiment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Field Experiment</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_hu_8314fbf1d9759f2e.png</url>
+      <title>Field Experiment</title>
+      <link>https://css-synosys.github.io/tag/field-experiment/</link>
+    </image>
+    
+    <item>
+      <title>Disentangling Participation in Online Political Discussions with a Collective Field Experiment</title>
+      <link>https://css-synosys.github.io/publication/phillipp-2025_reddit/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/publication/phillipp-2025_reddit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
