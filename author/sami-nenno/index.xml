@@ -5,12 +5,32 @@
     <link>https://css-synosys.github.io/author/sami-nenno/</link>
       <atom:link href="https://css-synosys.github.io/author/sami-nenno/index.xml" rel="self" type="application/rss+xml" />
     <description>Sami Nenno</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://css-synosys.github.io/author/sami-nenno/avatar_hu_cac2d06eb2fff616.png</url>
       <title>Sami Nenno</title>
       <link>https://css-synosys.github.io/author/sami-nenno/</link>
     </image>
+    
+    <item>
+      <title>How German Members Of Parliament Debate Wealth Taxation On Social Media</title>
+      <link>https://css-synosys.github.io/post/20251117_german_taxation/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/post/20251117_german_taxation/</guid>
+      <description>&lt;p&gt;In a new preprint, Sami Nenno together with Philipp Lorenz-Spreen use LLMs to detect arguments for or against wealth taxation by German members of parliament (MPs) and the business lobby. They analyze their social media communication from 2017 to 2025 on Facebook, Instagram, and X.&lt;/p&gt;
+&lt;p&gt;The study finds that wealth taxation is not among the policy issues most emphasized by MPs on social media. Although attention to the topic occasionally spikes, it never approaches the frequency of other reference issues like unemployment benefits or the nuclear phase-out. Left-wing parties rarely counter opposing arguments, present relatively uniform positions, and primarily justify stricter taxation by invoking rising inequality, injustice, and the responsibility of the wealthy. Conservatives emphasize the supposed threat of losing inherited homes due to higher taxes, while liberals and the far right focus more on economic arguments and often criticize state intervention. On the audience&amp;rsquo;s side, wealth taxation, though infrequently discussed, generates high engagement compared to other issues – especially when stricter taxation is the central message rather than a passing mention. Finally, left-wing parties seldom provide concrete data on inequality or tax exemptions, even though such evidence could strengthen persuasion. The authors conclude that in advocating stricter wealth taxation, left-wing parties likely fail to reach beyond their core electorate.&lt;/p&gt;
+&lt;p&gt;Find the full preprint here: &lt;a href=&#34;https://osf.io/preprints/socarxiv/xn2bu_v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/preprints/socarxiv/xn2bu_v1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sami Nenno</title>
+      <link>https://css-synosys.github.io/author/sami-nenno/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/sami-nenno/</guid>
+      <description>&lt;p&gt;Sami is a postdoc in the junior research group “Computational Social Science”. His degrees are in Data Science and Philosophy, and Communication Science. Sami is interested in quantitative research and machine learning and combining ideas from different disciplines. He has done research on different topics, including disinformation, software applications for journalists, and methods to document and reduce the electricity usage of machine learning models. In his role in the computational social science unit, he is developing NLP and computer vision methods to analyze data from (social) media platforms and other sources.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Preprint on text-level Misinformation on Social Media</title>
@@ -20,15 +40,6 @@
       <description>&lt;p&gt;In a new preprint, Sami Nenno together with Kamil Fuławka and Philipp Lorenz-Spreen from our team and Cornelius Puschmann from the University of Bremen use a new text-based method to detect misinformation on social media. The study analyzes more than half a million posts from all German members of parliament and their official party accounts across Facebook, X, Instagram, and TikTok. Using a novel text-matching approach, the researchers link posts to over 5,000 fact-checking articles and 1,500 community notes. Compared to other methods, they identify ten times as many posts that contain misinformation.&lt;/p&gt;
 &lt;p&gt;Their findings show that misinformation remains relatively rare overall but is not evenly distributed. Instead, it clusters around certain parties and topics — in some contexts reaching misinformation rates of about ten percent. By going beyond link-based detection, this approach broadens the scope of misinformation research, providing a more detailed view of where and by whom misinformation is spread, and highlighting the central role of certain parties in its circulation.&lt;/p&gt;
 &lt;p&gt;Find the full preprint here: &lt;a href=&#34;https://osf.io/preprints/socarxiv/p6yh9_v1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/preprints/socarxiv/p6yh9_v1/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sami Nenno</title>
-      <link>https://css-synosys.github.io/author/sami-nenno/</link>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/author/sami-nenno/</guid>
-      <description>&lt;p&gt;Sami is a postdoc in the junior research group “Computational Social Science”. His degrees are in Data Science and Philosophy, and Communication Science. Sami is interested in quantitative research and machine learning and combining ideas from different disciplines. He has done research on different topics, including disinformation, software applications for journalists, and methods to document and reduce the electricity usage of machine learning models. In his role in the computational social science unit, he is developing NLP and computer vision methods to analyze data from (social) media platforms and other sources.&lt;/p&gt;
 </description>
     </item>
     
