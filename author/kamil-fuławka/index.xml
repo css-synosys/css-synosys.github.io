@@ -5,9 +5,9 @@
     <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
       <atom:link href="https://css-synosys.github.io/author/kamil-fu%C5%82awka/index.xml" rel="self" type="application/rss+xml" />
     <description>Kamil Fuławka</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://css-synosys.github.io/author/kamil-fu%C5%82awka/avatar_hu_a6eeee21898836b7.jpg</url>
+      <url>https://css-synosys.github.io/author/kamil-fu%C5%82awka/avatar_hu_bc4c34f579e07bcd.jpg</url>
       <title>Kamil Fuławka</title>
       <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
     </image>
@@ -15,9 +15,23 @@
     <item>
       <title>Kamil Fuławka</title>
       <link>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</link>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</guid>
       <description>&lt;p&gt;Kamil is a postdoc in the junior research group &amp;ldquo;Computational Social Science.&amp;rdquo; Trained as a psychologist, he specializes in understanding how individuals make decisions under risk and uncertainty. His core research interests focus on the (dis)adaptive roles of emotions and heuristics in decision-making and the dynamics of the decision-making process itself. Kamil’s research motivation is fueled by challenges in health-related decisions, such as vaccine hesitancy and food choices, and the impact of contemporary affective (emotional) propaganda on political preferences. His work integrates various methods, including computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports with large language models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New preprint examines which simple food heuristics actually work</title>
+      <link>https://css-synosys.github.io/post/new_pre-print-food/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/post/new_pre-print-food/</guid>
+      <description>&lt;p&gt;New preprint examines which simple food heuristics actually work&lt;/p&gt;
+&lt;p&gt;A new preprint by Kamil Fuławka, together with colleagues from the Max Planck Institute for Human Development, studies how people can make healthier food choices using simple decision rules.&lt;/p&gt;
+&lt;p&gt;Food choices involve many nutritional dimensions at once. To reduce this complexity, people often rely on heuristics (i.e. simple decision rules) such as choosing products with less sugar or less fat. The study systematically tests a range of single-cue heuristics using large dataset of nutrient densities in food products.&lt;/p&gt;
+&lt;p&gt;The results show that not all heuristics perform equally well. Rules such as choose less energy, more fiber, more protein, raw foods, darker grains, and wild foods are among the most effective. Across many food comparisons, these heuristics are associated with higher levels of vitamins, minerals, protein and fiber, while often reducing salt and sugar. The heuristics focused on minimizing salt, sugar, and saturated offered no broader benefits. Thus, rather than merely warning consumers about what to avoid, the results show that signaling what foods offer—their positive nutritional attributes—can more effectively support healthier choices.&lt;/p&gt;
+&lt;p&gt;The preprint demonstrates how large-scale food data can be used to systematically evaluate decision heuristics in complex real world choice settings. It also provides evidence relevant for nutrition guidelines, food labeling and digital decision support tools that aim to simplify healthy eating without oversimplifying the problem itself.&lt;/p&gt;
+&lt;p&gt;👉 The preprint is currently under review and can be read here: &lt;a href=&#34;https://osf.io/preprints/psyarxiv/vdaup_v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/preprints/psyarxiv/vdaup_v1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
