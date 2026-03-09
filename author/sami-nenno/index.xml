@@ -5,12 +5,64 @@
     <link>https://css-synosys.github.io/author/sami-nenno/</link>
       <atom:link href="https://css-synosys.github.io/author/sami-nenno/index.xml" rel="self" type="application/rss+xml" />
     <description>Sami Nenno</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://css-synosys.github.io/author/sami-nenno/avatar_hu_24d9b9193b03aee4.png</url>
+      <url>https://css-synosys.github.io/author/sami-nenno/avatar_hu_71fafe1e3efd88e5.png</url>
       <title>Sami Nenno</title>
       <link>https://css-synosys.github.io/author/sami-nenno/</link>
     </image>
+    
+    <item>
+      <title>Methods for Computational Social Sciences (SoSe 2026)</title>
+      <link>https://css-synosys.github.io/teaching/methods_css_26/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/teaching/methods_css_26/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/53477801988&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Time (Lecture) Mondays, 4. DS and (Exercise) 5. DS&lt;/p&gt;
+&lt;p&gt;Location VMB/0302 (Lecture), APB/E010 (Exercise)&lt;/p&gt;
+&lt;p&gt;Department Computer Science&lt;/p&gt;
+&lt;p&gt;Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
+&lt;p&gt;Language English&lt;/p&gt;
+&lt;p&gt;Assessment oral exam&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;Social media generates new types of data for quantifying human behavior, but also raises interesting research questions about the interaction between technology and society. In this course, we will learn the basics of computational social science, with a focus on text-as-data, and apply its methods to real-world data science problems from social media and other sources.&lt;/p&gt;
+&lt;p&gt;The lecture will introduce you to social science research questions and findings, while the exercise will give you the practical skills to answer social questions yourself using computational tools. The first part focuses on basic techniques of text analysis. We will learn how to collect text data from sources such as newspapers, parliamentary minutes or social media, and how to pre-process it for natural language processing (NLP), such as topic modeling and classification.&lt;/p&gt;
+&lt;p&gt;We will then move on to analyzing the structural factors of online data, from time series to networks and their dynamics. We will also explore how to collect such data from social media and how to conduct online field experiments. We will then have the tools to move on to applied research questions, covering topics such as political polarization, misinformation, public health and human mobility. We will learn what conclusions can and cannot be drawn from these descriptions. Finally, we will go beyond description and learn about causality, simulation models of social systems that allow mechanistic understanding.&lt;/p&gt;
+&lt;p&gt;In summary, this course will provide a toolbox for describing different types of social systems with a focus on textual data, as well as a family of modelling approaches that can go beyond individual-level statistics to describe collective processes.&lt;/p&gt;
+&lt;h3 id=&#34;schedule&#34;&gt;Schedule:&lt;/h3&gt;
+&lt;p&gt;Week 1 Introduction&lt;/p&gt;
+&lt;p&gt;Week 2 Collecting text data&lt;/p&gt;
+&lt;p&gt;Week 3 Automated content analysis, validation &amp;amp; data quality I&lt;/p&gt;
+&lt;p&gt;Week 4 Automated content analysis, validation &amp;amp; data quality II&lt;/p&gt;
+&lt;p&gt;Week 5 Transfer learning &amp;amp; zero/few shot learning&lt;/p&gt;
+&lt;p&gt;Week 6 Vector embeddings &amp;amp; topic modeling I&lt;/p&gt;
+&lt;p&gt;Holiday&lt;/p&gt;
+&lt;p&gt;Week 7 Vector embeddings &amp;amp; topic modeling II&lt;/p&gt;
+&lt;p&gt;Week 8 Time series analysis&lt;/p&gt;
+&lt;p&gt;Week 9 Regressions and statistical modeling&lt;/p&gt;
+&lt;p&gt;Week 10 Network science I&lt;/p&gt;
+&lt;p&gt;Week 11 Network science II&lt;/p&gt;
+&lt;p&gt;Week 12 Causal inference in observational data&lt;/p&gt;
+&lt;p&gt;Week 13 Linking data types (time, structure and content)&lt;/p&gt;
+&lt;p&gt;Week 14 Linking data types (time, structure and content)&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography:&lt;/h3&gt;
+&lt;p&gt;Llaudet, E., &amp;amp; Imai, K. (2022). Data analysis for social science: A friendly and practical introduction. Princeton University Press.&lt;/p&gt;
+&lt;p&gt;Albert-László Barabási (2015). Network Science. Cambridge University Press (also here: networksciencebook.com)&lt;/p&gt;
+&lt;p&gt;Cunningham, S. (2021). Causal inference: The mixtape. Yale university press.&lt;/p&gt;
+&lt;p&gt;Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., &amp;hellip; &amp;amp; Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.&lt;/p&gt;
+&lt;p&gt;Flache, A., Mäs, M., Feliciani, T., Chattoe-Brown, E., Deffuant, G., Huet, S., &amp;amp; Lorenz, J. (2017). Models of social influence: Towards the next frontiers. Jasss-The journal of artificial societies and social simulation, 20(4), 2.&lt;/p&gt;
+&lt;p&gt;Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., &amp;amp; Hertwig, R. (2023). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature human behaviour, 7(1), 74-101.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sami Nenno</title>
+      <link>https://css-synosys.github.io/author/sami-nenno/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/sami-nenno/</guid>
+      <description>&lt;p&gt;Sami is a postdoc in the junior research group “Computational Social Science”. His degrees are in Data Science and Philosophy, and Communication Science. Sami is interested in quantitative research and machine learning and combining ideas from different disciplines. He has done research on different topics, including disinformation, software applications for journalists, and methods to document and reduce the electricity usage of machine learning models. In his role in the computational social science unit, he is developing NLP and computer vision methods to analyze data from (social) media platforms and other sources.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How German Members Of Parliament Debate Wealth Taxation On Social Media</title>
@@ -20,15 +72,6 @@
       <description>&lt;p&gt;In a new preprint, Sami Nenno together with Philipp Lorenz-Spreen use LLMs to detect arguments for or against wealth taxation by German members of parliament (MPs) and the business lobby. They analyze their social media communication from 2017 to 2025 on Facebook, Instagram, and X.&lt;/p&gt;
 &lt;p&gt;The study finds that wealth taxation is not among the policy issues most emphasized by MPs on social media. Although attention to the topic occasionally spikes, it never approaches the frequency of other reference issues like unemployment benefits or the nuclear phase-out. Left-wing parties rarely counter opposing arguments, present relatively uniform positions, and primarily justify stricter taxation by invoking rising inequality, injustice, and the responsibility of the wealthy. Conservatives emphasize the supposed threat of losing inherited homes due to higher taxes, while liberals and the far right focus more on economic arguments and often criticize state intervention. On the audience&amp;rsquo;s side, wealth taxation, though infrequently discussed, generates high engagement compared to other issues – especially when stricter taxation is the central message rather than a passing mention. Finally, left-wing parties seldom provide concrete data on inequality or tax exemptions, even though such evidence could strengthen persuasion. The authors conclude that in advocating stricter wealth taxation, left-wing parties likely fail to reach beyond their core electorate.&lt;/p&gt;
 &lt;p&gt;Find the full preprint here: &lt;a href=&#34;https://osf.io/preprints/socarxiv/xn2bu_v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/preprints/socarxiv/xn2bu_v1&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sami Nenno</title>
-      <link>https://css-synosys.github.io/author/sami-nenno/</link>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://css-synosys.github.io/author/sami-nenno/</guid>
-      <description>&lt;p&gt;Sami is a postdoc in the junior research group “Computational Social Science”. His degrees are in Data Science and Philosophy, and Communication Science. Sami is interested in quantitative research and machine learning and combining ideas from different disciplines. He has done research on different topics, including disinformation, software applications for journalists, and methods to document and reduce the electricity usage of machine learning models. In his role in the computational social science unit, he is developing NLP and computer vision methods to analyze data from (social) media platforms and other sources.&lt;/p&gt;
 </description>
     </item>
     

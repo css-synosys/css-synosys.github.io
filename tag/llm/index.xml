@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLM | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/tag/llm/</link>
+      <atom:link href="https://css-synosys.github.io/tag/llm/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://css-synosys.github.io/media/logo_hu_1bee83e9b10dac46.png</url>
+      <title>LLM</title>
+      <link>https://css-synosys.github.io/tag/llm/</link>
+    </image>
+    
+    <item>
+      <title>LLMs for Psychological Digital Content Analysis (SoSe 2026)</title>
+      <link>https://css-synosys.github.io/teaching/llm_psych_26/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/teaching/llm_psych_26/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/53477801989&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Time Thursdays, 5. DS&lt;/p&gt;
+&lt;p&gt;Location APB/E010&lt;/p&gt;
+&lt;p&gt;Department Computer Science&lt;/p&gt;
+&lt;p&gt;Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
+&lt;p&gt;Language English&lt;/p&gt;
+&lt;p&gt;Assessment oral exam&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;Digital communication produces vast amounts of content that reflect how people think, feel, and interact. Social media posts, online discussions, reviews, images, and other forms of digital media contain traces of psychological phenomena such as persuasion, identity expression, moral judgment, and emotions. Recent advances in large language models (LLMs) and multimodal models have opened new possibilities for analyzing such content at scale. However, meaningful analysis requires more than technical tools: psychological constructs must be clearly defined, operationalized, and measured. This seminar explores how psychological concepts can be systematically studied in digital content using LLM-based annotation workflows.&lt;/p&gt;
+&lt;p&gt;Throughout the course, students will learn how to translate abstract psychological constructs into measurable indicators in digital data, including both textual and visual content. The seminar introduces a full research pipeline for this task: identifying relevant constructs, operationalizing them as annotation tasks, implementing LLM-based annotation through prompt engineering, evaluating annotation quality using human feedback, and analyzing the resulting data statistically.&lt;/p&gt;
+&lt;p&gt;While LLMs will play a central role in the workflow, the course is not intended as a purely technical training in model usage. Instead, it focuses on a careful and scientifically grounded reflection on what it means to interpret digital content through psychological lenses and what methodological challenges arise when doing so.&lt;/p&gt;
+&lt;p&gt;The seminar is organized around an individual mini-project developed over the course of the semester. Each student will select a psychological construct and a dataset of digital content, design an LLM-based annotation approach, evaluate and refine the annotation process, and conduct a basic analysis of the resulting data. The final deliverables are a short project notebook documenting the annotation pipeline and analysis, and a brief presentation of the results during the final sessions.&lt;/p&gt;
+&lt;p&gt;The seminar assumes basic familiarity with Python. Example scripts and templates will be provided, but students are expected to write and adapt their own code. Guidance and support for setting up these environments will be provided during the course.&lt;/p&gt;
+&lt;h3 id=&#34;schedule&#34;&gt;Schedule:&lt;/h3&gt;
+&lt;p&gt;Week 1 Seminar Introduction: Capturing Psychological Phenomena in Digital Content (Lecture)&lt;/p&gt;
+&lt;p&gt;Week 2 Psychological Constructs and Digital Behavior (Lecture &amp;amp; Exercises)&lt;/p&gt;
+&lt;p&gt;Week 3 Operationalization and Measurement of Psychological Constructs (Lecture &amp;amp; Exercises)&lt;/p&gt;
+&lt;p&gt;Week 4 Project Design and Setup (Workshop)&lt;/p&gt;
+&lt;p&gt;Week 5 LLMs for Psychological Content Annotation (Lecture &amp;amp; Exercises)&lt;/p&gt;
+&lt;p&gt;Week 6 LLM Prompt Engineering I: Basic Techniques (Lecture &amp;amp; Exercises)&lt;/p&gt;
+&lt;p&gt;Week 7 LLM Prompt Engineering II: Advanced Prompt Design (Workshop)&lt;/p&gt;
+&lt;p&gt;Week 8 LLM Prompt Engineering III: Selected Constructs Implementation (Workshop)&lt;/p&gt;
+&lt;p&gt;Week 9 Human-in-the-Loop: Evaluating LLM Annotations (Lecture &amp;amp; Exercises)&lt;/p&gt;
+&lt;p&gt;Week 10 Refining Prompts After Human Evaluation (Workshop)&lt;/p&gt;
+&lt;p&gt;Week 11 Statistical Analysis of Annotation Data (Lecture &amp;amp; Exercises)&lt;/p&gt;
+&lt;p&gt;Week 12 Analyzing and Presenting LLM Annotation Results (Workshop)&lt;/p&gt;
+&lt;p&gt;Week 13 Project Presentations (Presentations)&lt;/p&gt;
+&lt;p&gt;Week 14 Final Discussion: Reflections, Feedback, and Q&amp;amp;A (Discussion)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
