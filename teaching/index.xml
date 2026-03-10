@@ -49,6 +49,22 @@
     </item>
     
     <item>
+      <title>Introduction to Computational Social Sciences (SoSe 2026)</title>
+      <link>https://css-synosys.github.io/teaching/intro_css_26s/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/teaching/intro_css_26s/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/53371961354&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Department: Sociology&lt;/p&gt;
+&lt;p&gt;Language: English&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;Social media generates new types of data for quantifying human behavior, but also raises interesting research questions about the interaction between technology and society. In this course, we will learn the basics of computational social science and apply its methods in hands-on exercises to real-world data science problems from social media and other sources.&lt;/p&gt;
+&lt;p&gt;The first part will be more theoretical to establish the tools and vocabulary needed for application, starting with descriptive statistics over dynamical processes to network science, but also data collection from social media and field experiments conducted online. We will learn how to collect text data from sources such as newspapers, parliamentary minutes or social media, and how to pre-process it for natural language processing, such as sentiment analysis.&lt;/p&gt;
+&lt;p&gt;We will then have the tools to move on to applied examples ranging from social network data to text data to experimental data, covering topics like political polarization, misinformation, public-health and human mobility. We will learn how to use data science to describe these different datasets using the same language and what conclusions can be drawn from these descriptions in terms of research questions.&lt;/p&gt;
+&lt;p&gt;Finally, we will go beyond description and learn about causality, simulation models of social systems that allow mechanistic understanding. In summary, this course will provide a toolbox to describe different types of social systems, as well as a family of modeling approaches that can go beyond individual-level statistics and describe collective processes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>LLMs for Psychological Digital Content Analysis (SoSe 2026)</title>
       <link>https://css-synosys.github.io/teaching/llm_psych_26/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
