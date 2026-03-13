@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Haase | CSS-Synosys</title>
+    <link>https://css-synosys.github.io/author/thomas-haase/</link>
+      <atom:link href="https://css-synosys.github.io/author/thomas-haase/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Haase</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://css-synosys.github.io/author/thomas-haase/avatar_hu_3f9715b3fe29a735.jpg</url>
+      <title>Thomas Haase</title>
+      <link>https://css-synosys.github.io/author/thomas-haase/</link>
+    </image>
+    
+    <item>
+      <title>Thomas Haase</title>
+      <link>https://css-synosys.github.io/author/thomas-haase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://css-synosys.github.io/author/thomas-haase/</guid>
+      <description>&lt;p&gt;Thomas joined the group in 2025 as a Master&amp;rsquo;s student from the Institute for Analytical Sociology at Linköping University, working as an intern and student assistant. His background is in the social sciences with focus on quantitative and computational methods. His internship focuses on propagation dynamics of populist content on social networking platforms. His main motivation is understanding how information shapes the formation and evolution of social groups.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

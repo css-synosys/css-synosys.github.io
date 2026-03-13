@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</loc>
+    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/ezequiel-lopez-lopez/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/philipp-lorenz-spreen/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/sami-nenno/</loc>
+    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/bao-truong/</loc>
+    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/norman-zidlicky/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://css-synosys.github.io/author/thomas-haase/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://css-synosys.github.io/event/demo_event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,27 +48,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/authors/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/author/bao-truong/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/computational-social-science/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/current/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/teaching/intro_css_26s/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/author/kamil-fu%C5%82awka/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/llm/</loc>
@@ -67,11 +84,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/author/philipp/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/author/philipp-lorenz-spreen/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/psychology/</loc>
@@ -82,16 +95,12 @@
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://css-synosys.github.io/author/sami-nenno/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://css-synosys.github.io/tag/seminar/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tags/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/tag/decision-making/</loc>
@@ -766,12 +775,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://css-synosys.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/author/ezequiel-lopez-lopez/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://css-synosys.github.io/author/norman-zidlicky/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
